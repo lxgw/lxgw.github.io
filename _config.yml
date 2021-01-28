@@ -24,7 +24,7 @@ components:
     # 不蒜子访问统计
     busuanzi:
         enabled: true
-        start_date: 2021-01-28
+        start_date: 2021-1-28
 # 压缩页面内容
 compress_html:
   clippings: all
@@ -57,17 +57,17 @@ navs:
     href: /categories/
     label: 分类
 
-   -
-     href: /archives/
-     label: 归档
+  -
+    href: /archives/
+    label: 归档
 
-#   -
+#  -
 #     href: /open-source/
 #     label: 开源
 
-#   -
-#     href: /wiki/
-#     label: 维基
+#  -
+#    href: /wiki/
+#    label: 维基
 
   -
     href: /links/
