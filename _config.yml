@@ -129,8 +129,8 @@ gitment:
 gitalk:
     owner: lxgw
     repo: blog-comments
-    clientID: 
-    clientSecret: 
+    clientID: 5b918581fc145bc668d4
+    clientSecret: a97fabdfddca194c12d9b402d63a9aac75c5f24c
 # 在使用其它评论组件时可点击显示 Disqus
 lazy_load_disqus : false
 
