@@ -24,7 +24,7 @@ topmost: true
 | [悠哉字体 / Yozai](https://github.com/lxgw/yozai-font) ([猫啃](https://www.maoken.com/freefonts/5423.html)) | [SIL OFL](https://scripts.sil.org/OFL) ([汉译](https://www.maoken.com/ofl)) | 手写                  |
 | [霞鹜晰黑 / LXGW Clear Gothic](https://github.com/lxgw/LxgwClearGothic) ([猫啃](https://www.maoken.com/freefonts/8781.html)) | [IPA](https://moji.or.jp/ipafont/license/) ([汉译](https://www.maoken.com/ipa)) | 黑体 *（旧字形）*     |
 | [霞鹜新晰黑 / LXGW New Clear Gothic](https://github.com/lxgw/LxgwNewClearGothic) ([猫啃](https://www.maoken.com/freefonts/8999.html)) | [IPA](https://moji.or.jp/ipafont/license/) ([汉译](https://www.maoken.com/ipa)) | 黑体 *（大陆新字形）* |
-| [霞鹜漫黑 / LXGW Marker Gothic](https://github.com/lxgw/LxgwMarkerGothic) *<sup>DEMO</sup>* | [SIL OFL](https://scripts.sil.org/OFL) ([汉译](https://www.maoken.com/ofl)) | POP                   |
+| [霞鹜漫黑 / LXGW Marker Gothic ](https://github.com/lxgw/LxgwMarkerGothic)([猫啃](https://www.maoken.com/freefonts/9523.html)) *<sup>DEMO</sup>* | [SIL OFL](https://scripts.sil.org/OFL) ([汉译](https://www.maoken.com/ofl)) | POP                   |
 
 另有 3 款由思源黑体轻度改造的 **「975」系列字体**，由于做得不太好，就不在这里列出，可在 [「猫啃网」](https://www.maoken.com/?s=975) 搜索下载。
 
