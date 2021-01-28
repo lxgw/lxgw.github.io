@@ -10,7 +10,26 @@ permalink: /about/
 
 
 
-## 联系
+## 个人简介
+### 几句话简介
+- 一个即将步入建筑工地的大四生；
+- 一个所谓的「电脑爱好者」；
+- ~~(曾经是)~~ 一个玩机爱好者；
+- 一个 DIY 字体爱好者；
+- 一个懒癌患者；
+- 一个讨厌「伸手党」的分享者；
+- 一个 2016 年加入酷安的酷友；
+- ……
+
+### 联系方式
+- **Gmail：** [calxgw2018@gmail.com](mailto:calxgw2018@gmail.com)
+- **QQ 邮箱：** [lxgw1999@qq.com](mailto:lxgw1999@qq.com)
+
+## 精品资源
+- [自制开源字体一览]({% link _posts/2021-1-15-Open-Source-Fonts.md %})
+- [Magisk 字体模块套用包 *（跳转到少数派）*](https://sspai.com/post/58049)
+
+## 社交帐号
 
 <ul>
 {% for website in site.data.social %}
@@ -26,7 +45,7 @@ permalink: /about/
 
 
 
-## Skill Keywords
+##  
 
 {% for skill in site.data.skills %}
 ### {{ skill.name }}
