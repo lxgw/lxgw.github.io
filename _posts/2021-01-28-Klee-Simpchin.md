@@ -22,7 +22,7 @@ keywords: Klee, 补字, 简化字
 
 鉴于此，本人开始了为 Klee 这一高质量的日文字体补全简体字的尝试。选取较粗的 SemiBold 字重，目前已造了近 500 个字。部分字稿如下图所示，持续更新。
 
-- Unicode 编码在前面的简体字
+- Unicode 编码靠前的简体字
 
   ![](\images\posts\klee-simpchin\klee-simpchin-single.png)
 
