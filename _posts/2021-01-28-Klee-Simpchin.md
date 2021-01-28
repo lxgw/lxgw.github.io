@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 为 Klee 试制简化字（持续更新）
-categories: [cate1, cate2]
+categories: 字体设计
 description: 为 FONTWORKS 的开源字体 Klee One 制作简化字。
 keywords: Klee, 补字, 简化字
 ---
