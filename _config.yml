@@ -120,11 +120,11 @@ disqus:
     username: 
 # https://imsun.net/posts/gitment-introduction/
 gitment:
-    owner: 
-    repo: 
+    owner: lxgw
+    repo: blog-comments
     oauth:
-        client_id: 
-        client_secret: 
+        client_id: 5b918581fc145bc668d4
+        client_secret: a97fabdfddca194c12d9b402d63a9aac75c5f24c
 # https://github.com/gitalk/gitalk#install
 gitalk:
     owner: lxgw
