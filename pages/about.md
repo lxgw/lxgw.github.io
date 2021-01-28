@@ -26,7 +26,7 @@ permalink: /about/
 - **QQ 邮箱：** [lxgw1999@qq.com](mailto:lxgw1999@qq.com)
 
 ## 精品资源
-- [自制开源字体一览]({% link _posts/2021-1-15-Open-Source-Fonts.md %})
+- [自制开源字体一览]({% link _posts/2021-01-15-Lxgw-Opensource-Chinese-Fonts.md %})
 - [Magisk 字体模块套用包 *（跳转到少数派）*](https://sspai.com/post/58049)
 
 ## 社交帐号
