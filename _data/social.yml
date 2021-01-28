@@ -1,27 +1,15 @@
 - sitename: GitHub
-  name: mzlogin
-  url: https://github.com/mzlogin
-
-- sitename: 掘金
-  name: mzlogin
-  url: http://gold.xitu.io/user/570ddaeb2e958a005c63b2da
-
-- sitename: LinkedIn
-  name: mazhuang
-  url: https://www.linkedin.com/in/mazhuang
+  name: lxgw
+  url: https://github.com/lxgw
 
 - sitename: 博客
-  name: 码志
-  url: http://mazhuang.org
+  name: LXGW
+  url: https://lxgw.github.io/
 
 - sitename: 微博
-  name: mzlogin
-  url: http://weibo.com/mzlogin
+  name: 孤鹜先森
+  url: https://weibo.com/lxgw
 
-- sitename: 知乎
-  name: mzlogin
-  url: http://www.zhihu.com/people/mzlogin
-
-- sitename: 豆瓣
-  name: 闷骚的程序员
-  url: http://www.douban.com/people/freedim
+- sitename: 酷安
+  name: 落霞孤鹜lxgw
+  url: http://www.coolapk.com/u/633884
