@@ -4,7 +4,7 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1" />
-    <title>{% if page.title %}{{ page.title }} &mdash; {% endif %}{{ site.title }}</title>
+    <title>{% if page.title %}{{ page.title }} &mdash; {% endif %}{{ site.title }} · {{ site.description }}</title>
     <link rel="stylesheet" href="{{ assets_base_url }}/assets/vendor/primer-css/css/primer.css">
     <link rel="stylesheet" href="{{ assets_base_url }}/assets/css/components/collection.css">
     <link rel="stylesheet" href="{{ assets_base_url }}/assets/css/components/repo-card.css">
@@ -33,7 +33,7 @@
     {% endif %}
     <link rel="canonical" href="{{ page.url | prepend: site.url }}">
     <link rel="alternate" type="application/atom+xml" title="{{ site.title }}" href="{{ site.url }}{{ site.subscribe_rss }}">
-    <link rel="shortcut icon" href="{{ assets_base_url }}/favicon.ico">
+    <link rel="shortcut icon" href="https://lxgw.github.io/favicon.ico">
     {% if page.title %}
     <meta property="og:title" content="{{ page.title }}">
       {% if page.keywords %}

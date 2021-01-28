@@ -20,7 +20,7 @@ cdn:
 components:
     # 分享
     share:
-        enabled: false
+        enabled: true
     # 不蒜子访问统计
     busuanzi:
         enabled: true
