@@ -44,4 +44,4 @@ keywords: Klee, 补字, 简化字
 
 补字过程中，没有参照其它任何已有字体的骨架，全凭自己的感觉。由于不是专业的字体设计师，还有很多结构不协调的地方，欢迎指正。
 
-在这里想知道还有哪个字库公司或者设计师想要补全 Klee 这款字体，如果已经有人开始补了，我就不用这样费时间了。![喵喵](https://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/7b/2018new_miaomiao_org.png)
+在这里想知道还有哪个字库公司或者设计师想要补全 Klee 这款字体，如果已经有人开始补了，我就不用费这个工夫了。![喵喵](https://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/7b/2018new_miaomiao_org.png)
