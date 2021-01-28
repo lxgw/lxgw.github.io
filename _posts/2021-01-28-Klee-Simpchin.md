@@ -36,7 +36,7 @@ keywords: Klee, 补字, 简化字
 
 - 「讠」旁
 
-  ![](\images\posts\klee-simpchin\klee-simpchin-speech.png)
+  ![](\images\posts\klee-simpchin\klee-simpchin-speech.jpeg)
 
 - 「钅」旁
 
