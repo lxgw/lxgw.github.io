@@ -42,7 +42,7 @@ author: LXGW
 organization: 
 organization_url: 
 github_username: lxgw
-# location: Wuhan, China
+location: 
 email: lxgw1999@qq.com
 
 # ---------------- #
@@ -57,11 +57,11 @@ navs:
     href: /categories/
     label: 分类
 
-   -
-     href: /archives/
-     label: 归档
+  -
+    href: /archives/
+    label: 归档
 
-#   -
+#  -
 #     href: /open-source/
 #     label: 开源
 
