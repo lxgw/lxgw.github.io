@@ -7,6 +7,8 @@ keywords: 字体, 开源字体, 中文字体, 免费商用字体
 topmost: true
 ---
 
+## 前言
+
 本人已经有了公众号、微博、酷安账号，但一直以来想创建一个个人博客。按照 [知乎](https://zhuanlan.zhihu.com/p/83834939) 上的方法，找了一个主题，经过了一番折腾，终于建立了一个自己的 github.io 网站，用于发一些公众号上不方便发出来的东西。
 
 ---
@@ -21,9 +23,11 @@ topmost: true
 | [悠哉字体 / Yozai](https://github.com/lxgw/yozai-font) ([猫啃](https://www.maoken.com/freefonts/5423.html)) | [SIL OFL](https://scripts.sil.org/OFL) ([汉译](https://www.maoken.com/ofl)) | 手写                  |
 | [霞鹜晰黑 / LXGW Clear Gothic](https://github.com/lxgw/LxgwClearGothic) ([猫啃](https://www.maoken.com/freefonts/8781.html)) | [IPA](https://moji.or.jp/ipafont/license/) ([汉译](https://www.maoken.com/ipa)) | 黑体 *（旧字形）*     |
 | [霞鹜新晰黑 / LXGW New Clear Gothic](https://github.com/lxgw/LxgwNewClearGothic) ([猫啃](https://www.maoken.com/freefonts/8999.html)) | [IPA](https://moji.or.jp/ipafont/license/) ([汉译](https://www.maoken.com/ipa)) | 黑体 *（大陆新字形）* |
-| [霞鹜漫黑 / LXGW Marker Gothic](https://github.com/lxgw/LxgwMarkerGothic) *DEMO* | [SIL OFL](https://scripts.sil.org/OFL) ([汉译](https://www.maoken.com/ofl)) | 手写                  |
+| [霞鹜漫黑 / LXGW Marker Gothic](https://github.com/lxgw/LxgwMarkerGothic) *<sup>DEMO</sup>* | [SIL OFL](https://scripts.sil.org/OFL) ([汉译](https://www.maoken.com/ofl)) | POP                   |
 
 另有 3 款由思源黑体轻度改造的 **「975」系列字体**，由于做得不太好，就不在这里列出，可在 [「猫啃网」](https://www.maoken.com/?s=975) 搜索下载。
+
+**<sup>DEMO</sup>** 表示为演示版字体，仍有诸多不完善之处（如缺字，字型不规范等）。 
 
 ## 使用许可与限制
 
