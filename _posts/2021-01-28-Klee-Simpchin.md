@@ -22,20 +22,20 @@ keywords: Klee, 补字, 简化字
 
 - 独体字
 
-  ![](images/posts/klee-simpchin/klee-simpchin-single.png)
+  ![](\images\posts\klee-simpchin\klee-simpchin-single.png)
 
 - 「亻」旁
 
-  ![](images/posts/klee-simpchin/klee-simpchin-person.png)
+  ![](\images\posts\klee-simpchin\klee-simpchin-person.png)
 
 - 「纟」旁
 
-  ![](images/posts/klee-simpchin/klee-simpchin-silk.png)
+  ![](\images\posts\klee-simpchin\klee-simpchin-silk.png)
 
 - 「讠」旁
 
-  ![](images/posts/klee-simpchin/klee-simpchin-speech.png)
+  ![](\images\posts\klee-simpchin\klee-simpchin-speech.png)
 
 - 「钅」旁
 
-  ![](images/posts/klee-simpchin/klee-simpchin-metal.png)
+  ![](\images\posts\klee-simpchin\klee-simpchin-metal.png)
