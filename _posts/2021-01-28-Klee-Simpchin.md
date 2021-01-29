@@ -36,12 +36,32 @@ keywords: Klee, 补字, 简化字
 
 - 「讠」旁
 
-  ![](\images\posts\klee-simpchin\klee-simpchin-speech.jpeg)
+  ![](\images\posts\klee-simpchin\klee-simpchin-language.jpeg)
 
 - 「钅」旁
 
   ![](\images\posts\klee-simpchin\klee-simpchin-metal.png)
+  
+- 「贝」部和「车」部
 
-补字过程中，没有参照其它任何已有字体的骨架，全凭自己的感觉。由于不是专业的字体设计师，还有很多结构不协调的地方，欢迎指正。
+  ![](\images\posts\klee-simpchin\klee-simpchin-finance-traffic.png)
+
+由于要补的字多为简体字，而原字体里没有相应部件，所以需要拆笔画。比如「车」字旁，原字体里没有简体的车字旁，就需要从别的字里用切割轮廓工具拆出「㇐」「㇜」「㇑」「㇀」这四个笔画进行拼接，缩放后还要用到加粗/减细命令。调整字形的结构，有时也需要拆笔画。用 FontCreator 拆笔画是一件烦琐且耗时的事情。
+
+![](\images\posts\klee-simpchin\tzay.png)
+
+补字过程中，大多数汉字没有参照其它已有字体，全凭自己的感觉，只有少数汉字参考了仓耳今楷，也可以说是「临摹」，比如「辇」字。
+
+![](\images\posts\klee-simpchin\nean.png)
+
+下图左边的「辇」字是凭自己的感觉拼的，右边的「辇」字是参照仓耳今楷拼的。对比起来，右边的「辇」比左边的「辇」协调了很多。
+
+![](\images\posts\klee-simpchin\nean-comparison.png)
+
+由于不是专业的字体设计师，还有很多结构不协调的地方，还请大佬轻喷。
 
 在这里想知道还有哪个字库公司或者设计师想要补全 Klee 这款字体，如果已经有人开始补了，我就不用费这个工夫了。![喵喵](https://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/7b/2018new_miaomiao_org.png)
+
+
+
+*（感觉这篇文章有一点卖弄的成分![](https://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/a1/2018new_doge02_org.png)）*
