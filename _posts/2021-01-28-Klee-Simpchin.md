@@ -88,9 +88,9 @@ keywords: Klee, 补字, 简化字
 
 没想到有人把这些字稿转发到 Facebook 上了，居然引来了大佬们的讨论。
 
-![](\images\posts\klee-simpchin\fb-snapshot.png)
+![](\images\posts\klee-simpchin\fb-snapshot.jpg)
 
-![](\images\posts\klee-simpchin\fb-comment.png)
+![](\images\posts\klee-simpchin\fb-comment.jpg)
 
 Francis Chow 是 Klee 系列字体的原作者，居然认为我补的简体字达到了合格水平，受宠若惊……（
 
