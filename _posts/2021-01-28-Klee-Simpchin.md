@@ -30,7 +30,7 @@ keywords: Klee, 补字, 简化字
 
 ![](\images\posts\klee-simpchin\wenkai-demo.png)
 
-[PDF 格式]()
+[PDF 格式](https://github.com/lxgw/LxgwWenKai/raw/main/demo.pdf)
 
 ### 部分字稿
 
@@ -98,3 +98,7 @@ Francis Chow 是 Klee 系列字体的原作者，居然认为我补的简体字�
 2. 补字过程中很多字都是直接**将繁体字的偏旁替换成简体字的偏旁** *（如「車」→「车」、「金」→「钅」）*，容易造成字形**结构比例失衡**。
 
 此时明白了字体设计工作是有多么的不容易。
+
+## 演示版字体下载
+
+[点击此处](https://github.com/lxgw/LxgwWenKai/)进入霞鹜文楷项目页面，下载 DEMO 版字体文件。
