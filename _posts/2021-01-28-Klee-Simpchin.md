@@ -74,6 +74,8 @@ keywords: Klee, 补字, 简化字
 
 由于不是专业的字体设计师，有些字基本上是直接替换偏旁，还有很多结构比例不协调的地方，还请大佬轻喷。
 
+感谢 FONTWORKS 以及 Klee 字体的设计师，提供了这么高品质的开源字体。
+
 **在这里想知道还有哪个字库公司或者设计师想要补全 Klee 这款字体，如果已经有人开始补了，我就不用费这个工夫了。**![喵喵](https://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/7b/2018new_miaomiao_org.png)
 
 
