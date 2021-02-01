@@ -32,9 +32,15 @@ keywords: Klee, 补字, 简化字
 
 [PDF 格式](https://github.com/lxgw/LxgwWenKai/raw/main/demo.pdf)
 
-### 2021.1.31 新造汉字
+### 2021.1.31 后的新造汉字
+
+#### 2021.01.31
 
 ![](\images\posts\klee-simpchin\wenkai-20210131.png)
+
+#### 2021.02.01
+
+![](\images\posts\klee-simpchin\wenkai-20210201.png)
 
 ### 部分字稿
 
