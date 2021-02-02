@@ -42,6 +42,12 @@ keywords: Klee, 补字, 简化字
 
 ![](\images\posts\klee-simpchin\wenkai-20210201.png)
 
+#### 2021.02.02
+
+![](\images\posts\klee-simpchin\wenkai-20210202-1.png)
+
+![](\images\posts\klee-simpchin\wenkai-20210202-2.png)
+
 ### 部分字稿
 
 - Unicode 编码靠前的简体字
