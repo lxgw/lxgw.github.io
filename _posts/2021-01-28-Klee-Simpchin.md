@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 为 Klee 试制简化字（持续更新）
+title: 为 Klee 试制简化字（持续更新，多图预警）
 categories: 业余字体设计 开源中文字体
 description: 为 FONTWORKS 的开源字体 Klee One 制作简化字。
 keywords: Klee, 补字, 简化字
@@ -25,6 +25,8 @@ keywords: Klee, 补字, 简化字
 鉴于此，本人开始了为 Klee 这一高质量的日文字体补全简体字的尝试。选取**较粗的 SemiBold 字重**，截至 2021.1.30，已造了**765 个字**。部分字稿如下图所示，持续更新。补全后的字体拟命名**「霞鹜文楷」**。
 
 ## 字稿
+
+![](\images\posts\klee-simpchin\overview.png)
 
 ### 截至 2021.1.30 的所有新造汉字
 
