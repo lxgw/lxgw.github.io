@@ -26,7 +26,7 @@ keywords: Klee, 补字, 简化字
 
 ## 字稿
 
-![](\images\posts\klee-simpchin\overview.png)
+![](\images\posts\klee-simpchin\wenkai-overview.png)
 
 ### 截至 2021.1.30 的所有新造汉字
 
