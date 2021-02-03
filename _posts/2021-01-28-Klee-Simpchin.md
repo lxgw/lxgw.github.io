@@ -52,7 +52,9 @@ keywords: Klee, 补字, 简化字
 
 #### 2021.02.03
 
+![](\images\posts\klee-simpchin\wenkai-20210203-1.png)
 
+![](\images\posts\klee-simpchin\wenkai-20210203-2.png)
 
 ### 部分字稿
 
