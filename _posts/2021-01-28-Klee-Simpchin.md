@@ -56,32 +56,6 @@ keywords: Klee, 补字, 简化字
 
 ![](\images\posts\klee-simpchin\wenkai-20210203-2.png)
 
-### 部分字稿
-
-- Unicode 编码靠前的简体字
-
-  ![](\images\posts\klee-simpchin\klee-simpchin-single.png)
-
-- 「亻」旁
-
-  ![](\images\posts\klee-simpchin\klee-simpchin-person.png)
-
-- 「纟」旁
-
-  ![](\images\posts\klee-simpchin\klee-simpchin-silk.png)
-
-- 「讠」旁
-
-  ![](\images\posts\klee-simpchin\klee-simpchin-language.jpeg)
-
-- 「钅」旁
-
-  ![](\images\posts\klee-simpchin\klee-simpchin-metal.png)
-  
-- 「贝」部和「车」部 *（贝字旁需要重做了![](https://img.t.sinajs.cn/t4/appstyle/expression/ext/normal/a1/2018new_doge02_org.png)）*
-
-  ![](\images\posts\klee-simpchin\klee-simpchin-finance-traffic.png)
-
 ## 一些操作 & 后记
 
 由于要补的字多为简体字，而原字体里没有相应部件，所以需要**拆笔画**。比如「车」字旁，原字体里没有简体的车字旁，就需要从别的字里用切割轮廓工具拆出「㇐」「㇜」「㇑」「㇀」这四个笔画进行拼接，缩放后还要用到加粗/减细命令。调整字形的结构，有时也需要拆笔画。**用 FontCreator 拆笔画是一件烦琐且耗时的事情。**
