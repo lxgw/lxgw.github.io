@@ -24,6 +24,8 @@ keywords: Klee, 补字, 简化字
 
 鉴于此，本人开始了为 Klee 这一高质量的日文字体补全简体字的尝试。选取**较粗的 SemiBold 字重**，截至 2021.02.03，已造了**1650 个字**，已基本补完原字体（Klee One）所含繁体字对应的简体字。部分字稿如下图所示，持续更新。补全后的字体拟命名**「霞鹜文楷」**。
 
+截至 2021.02.05，已补完 3500 常用字，包括「现代汉语常用字表」（老 3500 字）及「义务教育语文课程常用字表」（新 3500 字，《通用规范汉字表》一级字表）。
+
 ## 字稿
 
 ![](\images\posts\klee-simpchin\wenkai-overview.png)
@@ -55,6 +57,12 @@ keywords: Klee, 补字, 简化字
 ![](\images\posts\klee-simpchin\wenkai-20210203-1.png)
 
 ![](\images\posts\klee-simpchin\wenkai-20210203-2.png)
+
+#### 2021.02.05
+
+补全 3500 常用字。
+
+![](\images\posts\klee-simpchin\wenkai-20210205.png)
 
 ## 一些操作 & 后记
 
