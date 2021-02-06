@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 自制开源免费字体一览（截至 2021.1.28）
+title: 自制开源免费字体一览（截至 2021.2.6）
 categories: 开源中文字体
 description: 在原有开源字体基础上改造成的中文字体，可免费商用。
 keywords: 字体, 开源字体, 中文字体, 免费商用字体
@@ -16,7 +16,7 @@ topmost: true
 
 ## 自制免费字体一览
 
-截至目前（2021.1.15），本人已改造并发布了 5 款开源中文字体。现将这 5 款字体列出如下。
+截至目前（2021.2.6），本人已改造并发布了 6 款开源中文字体。现将这 6 款字体列出如下。
 
 | 字体                                                         | 授权方式                                                     | 风格                  |
 | ------------------------------------------------------------ | ------------------------------------------------------------ | --------------------- |
@@ -25,10 +25,30 @@ topmost: true
 | [霞鹜晰黑 / LXGW Clear Gothic](https://github.com/lxgw/LxgwClearGothic) ([猫啃](https://www.maoken.com/freefonts/8781.html)) | [IPA](https://moji.or.jp/ipafont/license/) ([汉译](https://www.maoken.com/ipa)) | 黑体 *（旧字形）*     |
 | [霞鹜新晰黑 / LXGW New Clear Gothic](https://github.com/lxgw/LxgwNewClearGothic) ([猫啃](https://www.maoken.com/freefonts/8999.html)) | [IPA](https://moji.or.jp/ipafont/license/) ([汉译](https://www.maoken.com/ipa)) | 黑体 *（大陆新字形）* |
 | [霞鹜漫黑 / LXGW Marker Gothic ](https://github.com/lxgw/LxgwMarkerGothic)([猫啃](https://www.maoken.com/freefonts/9523.html)) *<sup>DEMO</sup>* | [SIL OFL](https://scripts.sil.org/OFL) ([汉译](https://www.maoken.com/ofl)) | POP                   |
+| [霞鹜文楷 / LXGW WenKai ](https://github.com/lxgw/LxgwWenKai)([猫啃](https://www.maoken.com/freefonts/9704.html)) *<sup>BETA</sup>* | [SIL OFL](https://scripts.sil.org/OFL) ([汉译](https://www.maoken.com/ofl)) | 楷体                  |
 
 另有 3 款由思源黑体轻度改造的 **「975」系列字体**，由于做得不太好，就不在这里列出，可在 [「猫啃网」](https://www.maoken.com/?s=975) 搜索下载。
 
 **<sup>DEMO</sup>** 表示为演示版字体，仍有诸多不完善之处（如缺字，字型不规范等）。 
+
+## 字数参考
+
+| 字体       | 简体字数 | 繁体字数 | 参考字库大小         |
+| ---------- | -------- | -------- | -------------------- |
+| 小赖字体   | ★★★★★    | ★★★★★    | GB18030+通规         |
+| 悠哉字体   | ★★★★★    | ★★★★★    | GB2312+通规+JIS+BIG5 |
+| 霞鹜晰黑   | ★★★★★    | ★★★★☆    | GB2312+通规+JIS+4808 |
+| 霞鹜新晰黑 | ★★★★★    | ☆☆☆☆☆    | GB2312+通规          |
+| 霞鹜漫黑   | ★★★☆☆    | ★★★☆☆    | 3500+JIS             |
+| 霞鹜文楷   | ★★★★☆    | ★★★★☆    | 3500+JIS+4808        |
+
+**注释：**
+
+1. GB 2312 共 6763 字， GB 18030 共 27533 字。 GB 2312 含于 GB 18030。
+2. **3500** 指 3500 常用汉字，包括「现代汉语常用字表」（老 3500 字）及「义务教育语文课程常用字表」（新 3500 字，《通用规范汉字表》一级字表）。与 GB 2312 表仅有两个字不重合（「啰」「瞭」）。（简体为主）
+3. **4808** 指台湾 4808 常用字，台湾地区称「常用国字标准字体表」。与 GB 2312 表有 3060 个字重合，含于 BIG5 （共 13058 字）。（繁体为主）
+4. **JIS** 指日文字体原有字库。
+5. **通规** 指《通用规范汉字表》，共 8105 个字，跨越 CJK 统一汉字基本区及扩展 A～E 区，与 GB 2312 表有 6638 个字重合。（简体为主）
 
 ## 使用许可与限制
 
@@ -73,4 +93,4 @@ topmost: true
 ## 今后的计划
 
 - [ ] 重做 975 系列字体；
-- [ ] 出一款基于 [Klee](https://github.com/fontworks-fonts/Klee) 的中文字体。
+- [ ] ……
