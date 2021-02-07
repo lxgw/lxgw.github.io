@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 为 Klee 试制简化字（持续更新，多图预警）
+title: 【霞鹜文楷 0.1 版已发布】 为 Klee 试制简化字（多图预警）
 categories: 业余字体设计 开源中文字体
 description: 为 FONTWORKS 的开源字体 Klee One 制作简化字。
 keywords: Klee, 补字, 简化字
@@ -107,6 +107,11 @@ Francis Chow 是 Klee 系列字体的原作者，居然认为我补的简体字�
 
 此时明白了字体设计工作是有多么的不容易，向字体设计师们致敬！
 
-## 演示版字体下载
+## 字体下载
 
-[点击此处](https://github.com/lxgw/LxgwWenKai/)进入霞鹜文楷项目页面，下载 DEMO 版字体文件。**预计将在除夕放出完整版字体文件，将覆盖 3500 + 4808 简繁常用字。**
+现 0.1 版已经发布。
+
+[点击此处](https://github.com/lxgw/LxgwWenKai/)进入霞鹜文楷项目页面，下载字体文件。
+
+或进入[猫啃网](https://www.maoken.com/freefonts/9704.html)下载。
+
