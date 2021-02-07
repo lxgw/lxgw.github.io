@@ -6,13 +6,7 @@ description: 为 FONTWORKS 的开源字体 Klee One 制作简化字。
 keywords: Klee, 霞鹜文楷, 文楷
 ---
 
-现 0.1 版已经发布。
-
-经过两周左右时间的补字、调试、调整，**霞鹜文楷 0.1 版终于出炉了。**
-
-[点击此处](https://github.com/lxgw/LxgwWenKai/)进入霞鹜文楷项目页面，下载字体文件。
-
-或进入[猫啃网](https://www.maoken.com/freefonts/9704.html)下载（可能不是最新版）。
+经过两周左右时间的补字、调试、调整，**霞鹜文楷 0.1 版终于出炉了。**[点击此处](https://github.com/lxgw/LxgwWenKai/)进入霞鹜文楷项目页面，下载字体文件。或进入[猫啃网](https://www.maoken.com/freefonts/9704.html)下载。
 
 ## 字体预览
 
