@@ -44,6 +44,7 @@ permalink: /about/
 </ul>
 
 
+本站建议使用 [更纱黑体](https://github.com/be5invis/Sarasa-Gothic/) 作为页面字体查看。
 
 ##  
 
