@@ -8,6 +8,8 @@ keywords: Klee, 霞鹜文楷, 文楷
 
 经过两周左右时间的补字、调试、调整，**霞鹜文楷 0.1 版终于出炉了。**[点击此处](https://github.com/lxgw/LxgwWenKai/)进入霞鹜文楷项目页面，下载字体文件。或进入[猫啃网](https://www.maoken.com/freefonts/9704.html)下载。**辛丑牛年快要到了，在这里提前祝大家牛年大吉，万事如意！**
 
+关于补字过程，可参阅：[为 Klee 试制简化字](https://lxgw.github.io/2021/01/28/Klee-Simpchin/)
+
 ## 字体预览
 
 ![](\images\posts\lxgw-wenkai-release\wenkai-1.png)
