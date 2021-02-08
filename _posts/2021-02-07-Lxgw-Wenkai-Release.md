@@ -70,6 +70,16 @@ keywords: Klee, 霞鹜文楷, 文楷
 - [@CL-Jeremy](https://github.com/CL-Jeremy)、[@夜煞之乐](https://github.com/NightFurySL2001) 为字形设计提供指导；
 - [@北辰極致卑微](https://weibo.com/u/5327681980?) 协助补全字体。
 
+## 屏显加粗版
+
+为手机、电子书阅读器等设备的用户提供屏显加粗版，与原版的纤细字形相比，更易阅读。
+
+![](\images\posts\lxgw-wenkai-release\wenkai-scrshot-1.jpg)
+
+![](\images\posts\lxgw-wenkai-release\wenkai-scrshot-2.jpg)
+
+下载地址：[蓝奏，密码 8ppk](https://lxgw.lanzous.com/b0cqwpt3i)，包含 TTF 版字体文件，以及 Magisk 模块 *（适用于已经 Root 的设备，使用 Magisk 20.2 模板制作）* ，使用效果因人而异。
+
 ## 后记
 
 这款字体将是本人的最后一款自制开源字体，从小赖到文楷，改造和发布字体的过程中，请教和结识了一些字体设计大佬，也学到了一些字体设计的技巧，积累了很多补字经验，也获得了很多设计师和机友的支持，感谢你们，让我在免费字体领域有了一小块自己的地盘。
