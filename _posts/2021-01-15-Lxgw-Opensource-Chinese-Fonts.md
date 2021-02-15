@@ -22,10 +22,10 @@ topmost: true
 | ------------------------------------------------------------ | ------------------------------------------------------------ | --------------------- | -------- |
 | [小赖字体 / Xiaolai ](https://github.com/lxgw/kose-font) ([猫啃](https://www.maoken.com/freefonts/4306.html)) | [SIL OFL](https://scripts.sil.org/OFL) ([汉译](https://www.maoken.com/ofl)) | 手写                  | 2020.5   |
 | [悠哉字体 / Yozai](https://github.com/lxgw/yozai-font) ([猫啃](https://www.maoken.com/freefonts/5423.html)) | [SIL OFL](https://scripts.sil.org/OFL) ([汉译](https://www.maoken.com/ofl)) | 手写                  | 2020.6   |
+| [霞鹜文楷 / LXGW WenKai ](https://github.com/lxgw/LxgwWenKai)([猫啃](https://www.maoken.com/freefonts/9704.html)) | [SIL OFL](https://scripts.sil.org/OFL) ([汉译](https://www.maoken.com/ofl)) | 楷体                  | 2021.2   |
 | [霞鹜晰黑 / LXGW Clear Gothic](https://github.com/lxgw/LxgwClearGothic) ([猫啃](https://www.maoken.com/freefonts/8781.html)) | [IPA](https://moji.or.jp/ipafont/license/) ([汉译](https://www.maoken.com/ipa)) | 黑体 *（旧字形）*     | 2020.12  |
 | [霞鹜新晰黑 / LXGW New Clear Gothic](https://github.com/lxgw/LxgwNewClearGothic) ([猫啃](https://www.maoken.com/freefonts/8999.html)) | [IPA](https://moji.or.jp/ipafont/license/) ([汉译](https://www.maoken.com/ipa)) | 黑体 *（大陆新字形）* | 2021.1   |
-| [霞鹜漫黑 / LXGW Marker Gothic ](https://github.com/lxgw/LxgwMarkerGothic)([猫啃](https://www.maoken.com/freefonts/9523.html)) *<sup>DEMO</sup>* | [SIL OFL](https://scripts.sil.org/OFL) ([汉译](https://www.maoken.com/ofl)) | POP                   | 2021.1   |
-| [霞鹜文楷 / LXGW WenKai ](https://github.com/lxgw/LxgwWenKai)([猫啃](https://www.maoken.com/freefonts/9704.html)) *<sup>BETA</sup>* | [SIL OFL](https://scripts.sil.org/OFL) ([汉译](https://www.maoken.com/ofl)) | 楷体                  | 2021.2   |
+| [霞鹜漫黑 / LXGW Marker Gothic ](https://github.com/lxgw/LxgwMarkerGothic)([猫啃](https://www.maoken.com/freefonts/9523.html)) *<sup>未完成，已弃</sup>* | [SIL OFL](https://scripts.sil.org/OFL) ([汉译](https://www.maoken.com/ofl)) | POP                   | 2021.1   |
 
 另有 3 款由思源黑体轻度改造的 **「975」系列字体**，由于做得不太好，就不在这里列出，可在 [「猫啃网」](https://www.maoken.com/?s=975) 搜索下载。
 
@@ -33,23 +33,24 @@ topmost: true
 
 ## 字数等级参考
 
-| 字体                                                     | 简体字数 | 繁体字数 | 参考字库大小         |
-| -------------------------------------------------------- | -------- | -------- | -------------------- |
-| [小赖字体](https://github.com/lxgw/kose-font)            | ★★★★★    | ★★★★★    | GB18030+通规         |
-| [悠哉字体](https://github.com/lxgw/yozai-font)           | ★★★★★    | ★★★★★    | GB2312+通规+JIS+BIG5 |
-| [霞鹜晰黑](https://github.com/lxgw/LxgwClearGothic)      | ★★★★★    | ★★★★☆    | GB2312+通规+JIS+4808 |
-| [霞鹜新晰黑](https://github.com/lxgw/LxgwNewClearGothic) | ★★★★★    | ☆☆☆☆☆    | GB2312+通规          |
-| [霞鹜漫黑](https://github.com/lxgw/LxgwMarkerGothic)     | ★★★☆☆    | ★★★☆☆    | 3603+JIS             |
-| [霞鹜文楷](https://github.com/lxgw/LxgwWenKai)           | ★★★★☆    | ★★★★☆    | 3603+JIS+4808        |
+| 字体                                                     | 简体字数 | 繁体字数 | 参考字库                     |
+| -------------------------------------------------------- | -------- | -------- | ---------------------------- |
+| [小赖字体](https://github.com/lxgw/kose-font)            | ★★★★★    | ★★★★★    | GB18030+通规                 |
+| [悠哉字体](https://github.com/lxgw/yozai-font)           | ★★★★★    | ★★★★★    | GB2312+通规+JIS+GB12345+BIG5 |
+| [霞鹜晰黑](https://github.com/lxgw/LxgwClearGothic)      | ★★★★★    | ★★★★★    | GB2312+通规+JIS+GB12345+4808 |
+| [霞鹜文楷](https://github.com/lxgw/LxgwWenKai)           | ★★★★★    | ★★★★☆    | GB2312+JIS+4808              |
+| [霞鹜新晰黑](https://github.com/lxgw/LxgwNewClearGothic) | ★★★★★    | ☆☆☆☆☆    | GB2312+通规（仅简体）        |
+| [霞鹜漫黑](https://github.com/lxgw/LxgwMarkerGothic)     | ★★★☆☆    | ★★★☆☆    | 3603+JIS                     |
 
 **注释：**
 
-1. GB 2312 共 6763 字， GB 18030 共 27533 字。 GB 2312 含于 GB 18030。
-2. **3603** 指简体中文 3603 常用汉字，包括「现代汉语常用字表」（老 3500 字）及「义务教育语文课程常用字表」（新 3500 字，《通用规范汉字表》一级字表），新老 3500 加一起共 3603 个字。与 GB 2312 表仅有两个字不重合（「啰」「瞭」）。
-3. **4808** 指繁体中文 4808 常用字，台湾地区称「常用国字标准字体表」，含于 BIG5。
-4. **BIG5** 指繁体中文地区通行的「大五码」字符集标准，共 13058 字。分常用字和次常用字，常用字表 5401 字。
-5. **JIS** 指日文字体原有字库。
-6. **通规** 指《通用规范汉字表》，共 8105 个字，跨越 CJK 统一汉字基本区及扩展 A～E 区，与 GB 2312 表有 6638 个字重合。（简体为主）
+1. GB 2312 共 6763 字（仅简体）， GB 18030 共 27533 字（简繁均有）。 GB 2312 含于 GB 18030。
+2. GB 12345 是 GB 2312 对应繁体字符集，共 6866 字（包括 103 个「一简对多繁」扩充汉字）。
+3. **3603** 指简体中文 3603 常用汉字，包括「现代汉语常用字表」（老 3500 字）及「义务教育语文课程常用字表」（新 3500 字，《通用规范汉字表》一级字表），新老 3500 加一起共 3603 个字（新老 3500 常用字有 103 个字不重合，详见[百度百科：现代汉语常用字表-相关比较](https://baike.baidu.com/item/%E7%8E%B0%E4%BB%A3%E6%B1%89%E8%AF%AD%E5%B8%B8%E7%94%A8%E5%AD%97%E8%A1%A8/8922402?fr=aladdin#9)）。与 GB 2312 表仅有两个字不重合（「啰」「瞭」）。
+4. **4808** 指繁体中文 4808 常用字，台湾地区称「常用国字标准字体表」，含于 BIG5。
+5. **BIG5** 指繁体中文地区通行的「大五码」字符集标准，共 13058 字。分常用字和次常用字，常用字表 5401 字。
+6. **JIS** 指日文字体原有字库。
+7. **通规** 指《通用规范汉字表》，共 8105 个字，跨越 CJK 统一汉字基本区及扩展 A～E 区，与 GB 2312 表有 6638 个字重合。（简体为主）
 
 ## 使用许可与限制
 
