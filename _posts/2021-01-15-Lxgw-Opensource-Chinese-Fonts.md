@@ -31,7 +31,7 @@ topmost: true
 
 **<sup>DEMO</sup>** 表示为演示版字体，**<sup>BETA</sup>** 表示为测试版字体，仍有诸多不完善之处（如缺字，字型不规范等）。 
 
-字体 7z 压缩包和 Magisk 模块可在个人网盘 http://lxgw.ys168.com 下载。
+字体 7z 压缩包和 Magisk 模块可在 [个人网盘](http://lxgw.ys168.com) 下载，已上传前 5 个字体的 TTF 和 Magisk 模块。
 
 ## 字数等级参考
 

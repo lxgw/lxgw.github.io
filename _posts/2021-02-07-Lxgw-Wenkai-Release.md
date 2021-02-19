@@ -78,7 +78,7 @@ keywords: Klee, 霞鹜文楷, 文楷
 
 ![](\images\posts\lxgw-wenkai-release\wenkai-scrshot-2.jpg)
 
-下载地址：[蓝奏，密码 8ppk](https://lxgw.lanzous.com/b0cqwpt3i)，包含 TTF 版字体文件，以及 Magisk 模块 *（适用于已经 Root 的设备，使用 Magisk 20.2 模板制作）* ，使用效果因人而异。
+下载地址：[永硕网盘](http://lxgw.ys168.com)，包含 TTF 版字体文件，以及 Magisk 模块 *（适用于已经 Root 的设备，使用 Magisk 20.4 模板制作）* ，使用效果因人而异。
 
 ## 后记
 
