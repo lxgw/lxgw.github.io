@@ -1,12 +1,12 @@
 ---
 layout: post
-title: 谈不上经济独立的我，如何获得 2w 关注？
+title: 谈不上经济独立的我，如何在酷安获得 2w 关注？
 categories: 生活记录
 description: 谈不上经济独立的我，如何在酷安获得 2w 关注？
 keywords: 
 ---
 
-看了 @晨钟酱 的 [《酷安10W粉大佬，能否做到经济独立？》](https://www.coolapk.com/feed/25048103?shareKey=NDAwY2QwZjE5NTUxNjAzNGY1YmU~&shareUid=633884&shareFrom=com.coolapk.market_11.0.1) 文章，想写点什么。
+看了 @晨钟酱 的 [《酷安10W粉大佬，能否做到经济独立？》](https://www.coolapk.com/feed/25048103?shareKey=NDAwY2QwZjE5NTUxNjAzNGY1YmU~&shareUid=633884&shareFrom=com.coolapk.market_11.0.1) 文章，想写点什么。于是就有了这篇文章。
 
 首先，由于本人还没有参加工作，也没有做过兼职，更没有像 B 站大佬那样能转化为收益的创作能力，所以现在的我，根本谈不上什么「经济独立」。无论是资源分享，还是公众号运营，所带来的收益都比不上当月的花销。
 
