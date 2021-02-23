@@ -5,4 +5,11 @@
 - name: 猫啃网
   url: https://www.maoken.com/
   src: www
+  
+- name: 个人网盘
+  url: https://lxgw.ys168.com/
+  src: www
 
+- name: Zfont 找字体
+  url: https://zfont.cn/
+  src: www
