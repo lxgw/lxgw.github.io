@@ -1,15 +1,16 @@
-- name: 码志
+- name: 码志（模板提供）
   url: http://mazhuang.org
   src: life
 
-- name: 猫啃网
+- name: 猫啃网（免费字体下载站）
   url: https://www.maoken.com/
   src: www
   
-- name: 个人网盘
-  url: https://lxgw.ys168.com/
+
+- name: Zfont 找字体（免费字体下载站）
+  url: https://zfont.cn/
   src: www
 
-- name: Zfont 找字体
-  url: https://zfont.cn/
+- name: 个人网盘（永硕）
+  url: http://lxgw.ys168.com/
   src: www
