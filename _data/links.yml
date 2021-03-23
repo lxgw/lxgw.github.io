@@ -8,7 +8,7 @@
   
 
 - name: Zfont 找字体（免费字体下载站）
-  url: https://zfont.cn/
+  url: http://zfont.cn/
   src: www
 
 - name: 个人网盘（永硕）
