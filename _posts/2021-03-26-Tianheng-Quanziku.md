@@ -1,0 +1,48 @@
+---
+layout: post
+title: 天珩全字库外挂补全模块
+categories: Magisk模块
+description: 利用模块和自己修改的 fonts.xml 实现全 Unicode 字符的同台显示和处理，达到补全手机字库的目的。
+keywords: Magisk模块, 字体, 天珩全字库
+---
+
+## 介绍
+
+本模块实现在系统字体文件夹 `\system\fonts` 内加入 [天珩全字库](http://cheonhyeong.com/Simplified/download.html) 0、1、2 平面字体，配合修改好的 fonts.xml *（需要自己修改）* ，实现全 Unicode 字符的同台显示和处理，达到补全手机字库的目的。
+
+## 使用前要做的修改
+
+使用前，需将搭配的字体模块或已 root 手机根目录内的 `\system\etc\fonts.xml` 文件作以下修改：
+
+打开 fonts.xml，在文件最后 `</familyset>` 的前一行添加以下内容：
+
+```xml
+    <family>
+        <font weight="400" style="normal">TH-Tshyn-P0.ttf</font>
+    </family>
+    <family>
+        <font weight="400" style="normal">TH-Tshyn-P1.ttf</font>
+    </family>
+    <family>
+        <font weight="400" style="normal">TH-Tshyn-P2.ttf</font>
+    </family>
+```
+
+保存后，将修改后的模块 *（若有）* 与本模块一同刷入，即可实现补全手机字库的目的。
+
+## 字体来源
+
+天珩全字库由 [沈天珩](http://cheonhyeong.com/Simplified.html) 整理制作。
+
+本字库属于非盈利的、学习研究型的字库，目的是为了汉字等字符的显示，不制作或出售任何商业作品。字形版权：中易、华康、Iwata、Besta、方正。本字库中字体的字形均为上述公司制作，非本软件作者制作。本字库的字体属于已经公开的字体，故本字库仅仅起到收集整理的作用，方便用户使用。作者并未对字体做出任何有意义的改动，若有任何人以本字库的名义收取任何费用，本字库作者不承担任何连带责任。
+
+## 模块作者
+
+- 微信公众号：霞鹜（lxgwshare）
+- 微博：[孤鹜先森](https://weibo.com/lxgw/)
+- 酷安/少数派：[落霞孤鹜lxgw](https://coolapk.com/u/633884)
+- 酷安看看号：孤鹜字体
+
+## 模块下载
+
+http://lxgw.ys168.com/
