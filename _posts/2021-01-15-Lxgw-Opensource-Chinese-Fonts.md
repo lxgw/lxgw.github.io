@@ -42,14 +42,14 @@ topmost: true
 | [悠哉字体](https://github.com/lxgw/yozai-font)               | ★★★★★        | ★★★★★        | GB2312 + 通规 + GB12345 + BIG5 + 原有日文字库（[Adobe Japan 1-6](https://github.com/adobe-type-tools/Adobe-Japan1)） |
 | [霞鹜文楷](https://github.com/lxgw/LxgwWenKai)               | ★★★★★        | ★★★★★        | GB2312 + 通规 + GB12345 + BIG5一级 + 原有日文字库（[Adobe Japan 1-4]((https://github.com/adobe-type-tools/Adobe-Japan1))） |
 | [霞鹜晰黑](https://github.com/lxgw/LxgwClearGothic)          | ★★★★★        | ★★★★★        | GB2312 + 通规 + GB12345 + BIG5一级 + 原有日文字库（JIS 第一/二水准） |
-| [霞鹜新晰黑](https://github.com/lxgw/LxgwNewClearGothic)</br>[霞鹜尚智黑](https://www.maoken.com/freefonts/10610.html) | ★★★★★        | ☆☆☆☆☆        | GB2312 + 通规（仅简体）                                      |
+| [霞鹜新晰黑](https://github.com/lxgw/LxgwNewClearGothic) [霞鹜尚智黑](https://www.maoken.com/freefonts/10610.html) | ★★★★★        | ☆☆☆☆☆        | GB2312 + 通规（仅简体）                                      |
 | [霞鹜漫黑](https://github.com/lxgw/LxgwMarkerGothic)         | ★★★☆☆        | ★★★☆☆        | 3603 + 原有日文字库（JIS 第一/二水准）                       |
 
 **注释：**
 
 1. GB 2312-80 共 6763 字（仅简体）， GB 18030-2000 共 27533 字（简繁均有）。 GB 2312 含于 GB 18030。
 2. GB 12345-90 是 GB 2312 对应繁体字符集，共 6866 字（包括 103 个「一简对多繁」扩充汉字）。
-3. **3603** 指简体中文 3603 常用汉字，包括「现代汉语常用字表」（老 3500 字）及「义务教育语文课程常用字表」（新 3500 字，《通用规范汉字表》一级字表），新老 3500 加一起共 3603 个字（新老 3500 常用字有 103 个字不重合，详见[百度百科：现代汉语常用字表-相关比较](https://baike.baidu.com/item/%E7%8E%B0%E4%BB%A3%E6%B1%89%E8%AF%AD%E5%B8%B8%E7%94%A8%E5%AD%97%E8%A1%A8/8922402?fr=aladdin#9)）。在 GB 2312 字表中仅有两个字不包含（「啰」「瞭」）。
+3. **3603** 指简体中文 3603 常用汉字，包括「现代汉语常用字表」（老 3500 字）及「义务教育语文课程常用字表」（新 3500 字，《通用规范汉字表》一级字表），新老 3500 加一起共 3603 个字（新老 3500 常用字有 103 个字不重合，详见[百度百科：现代汉语常用字表-相关比较](https://baike.baidu.com/item/%E7%8E%B0%E4%BB%A3%E6%B1%89%E8%AF%AD%E5%B8%B8%E7%94%A8%E5%AD%97%E8%A1%A8/8922402?fr=aladdin#9)）。「啰」「瞭」2 个字不见于 GB 2312 字表。
 4. **4808** 指繁体中文 4808 常用字，台湾地区称「常用国字标准字体表」，含于 BIG5 字表。
 5. **BIG5** 指繁体中文地区通行的「大五码」字符集标准，共 13058 字。分常用字（一级）和次常用字（二级），常用字表 5401 字。
 7. **通规** 指《通用规范汉字表》，共 8105 个字，跨越 CJK 统一汉字基本区及扩展 A～E 区，与 GB 2312 表有 6638 个字重合。（简体为主）
