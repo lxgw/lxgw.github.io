@@ -40,7 +40,9 @@ keywords: Magisk模块, 字体, 天珩全字库
 
 ## 模块下载
 
-在 [LXGW 的个人网盘](http://lxgw.ys168.com/) 找到「天珩全字库Magisk模块」进行下载。Magisk 目标支持版本 20.4，最低支持 19.0 版本的 Magisk。
+ [蓝奏云，密码 alwh](https://lxgw.lanzoui.com/b0cq9ltjc) 
+
+Magisk 目标支持版本 20.4，最低支持 19.0 版本的 Magisk。
 
 ## 注意与声明
 
