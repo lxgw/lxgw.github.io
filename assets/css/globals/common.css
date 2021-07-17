@@ -3,7 +3,7 @@
 }
 
 .markdown-body,body {
-    font-family: "LXGW WenKai","Hiragino Sans GB","冬青黑","Microsoft YaHei","微软雅黑",SimSun,"宋体",Helvetica,Tahoma,Arial,sans-serif;
+    font-family: LxgwWenKai,"Hiragino Sans GB","冬青黑","Microsoft YaHei","微软雅黑",SimSun,"宋体",Helvetica,Tahoma,Arial,sans-serif;
     font-size: 16px;
     line-height: 1.6;
     word-wrap: break-word;
@@ -14,6 +14,20 @@
 
 @font-face {
     font-family:octicons;src:font-url(../fonts/octicons.eot?#iefix) format("embedded-opentype"),font-url(../fonts/octicons.woff) format("woff"),font-url(../fonts/octicons.ttf) format("truetype"),font-url(../fonts/octicons.svg#octicons) format("svg");font-weight:400;font-style:normal
+}
+
+@font-face {
+    font-family: LxgwWenKai;
+    src: local('LXGW WenKai'),url(https://cdn.jsdelivr.net/gh/lxgw/lxgw-wenkai-webfont@0.2.0/fonts/LXGWWenKai-Regular.woff2) format("woff2");
+    font-weight: 400;
+    font-style: normal
+}
+
+@font-face {
+    font-family: LxgwWenKai;
+    src: local('LXGW WenKai Bold'),url(https://cdn.jsdelivr.net/gh/lxgw/lxgw-wenkai-webfont@0.2.0/fonts/LXGWWenKai-Bold.woff2) format("woff2");
+    font-weight: 700;
+    font-style: normal
 }
 
 .pagination {
