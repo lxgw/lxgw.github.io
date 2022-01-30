@@ -1,0 +1,78 @@
+## 前言
+
+由于工作原因，已经半年没有动博客了，或许上学时更新这个博客的热情，已随着毕业和工作消退了吧。现在已经放假回家，选择除夕这一天更新，祝大家新春快乐，虎年大吉！
+
+## 字体介绍
+
+由于目前霞鹜文楷 Bold 字重*（实为 Medium，也是「霞鹜文楷屏幕阅读版」 的常规字重）*对部分用户来说依然比较细，且利用字体编辑软件的变换功能直接加粗的话，部分字形会糊成一片。因此开始了**「霞鹜臻楷」**这个项目，在使用字体编辑软件加粗功能的基础上，对大部分字形进行**手工调整**（包括缩短笔画、减细笔画、降低加粗幅度等），使字体在加粗的同时保持清晰，减少**笔画黏连、模糊、毛刺**等问题。
+
+### 字体预览
+
+[![img](https://raw.githubusercontent.com/lxgw/LxgwZhenKai/main/image/zhenkai-1.png)](https://raw.githubusercontent.com/lxgw/LxgwZhenKai/main/image/zhenkai-1.png)
+
+[![img](https://raw.githubusercontent.com/lxgw/LxgwZhenKai/main/image/zhenkai-2.png)](https://raw.githubusercontent.com/lxgw/LxgwZhenKai/main/image/zhenkai-2.png)
+
+[![img](https://raw.githubusercontent.com/lxgw/LxgwZhenKai/main/image/zhenkai-3.png)](https://raw.githubusercontent.com/lxgw/LxgwZhenKai/main/image/zhenkai-3.png)
+
+[![img](https://raw.githubusercontent.com/lxgw/LxgwZhenKai/main/image/zhenkai-4.png)](https://raw.githubusercontent.com/lxgw/LxgwZhenKai/main/image/zhenkai-4.png)
+
+[![img](https://raw.githubusercontent.com/lxgw/LxgwZhenKai/main/image/zhenkai-5.png)](https://raw.githubusercontent.com/lxgw/LxgwZhenKai/main/image/zhenkai-5.png)
+
+[![img](https://raw.githubusercontent.com/lxgw/LxgwZhenKai/main/image/zhenkai-6.png)](https://raw.githubusercontent.com/lxgw/LxgwZhenKai/main/image/zhenkai-6.png)
+
+[![img](https://raw.githubusercontent.com/lxgw/LxgwZhenKai/main/image/zhenkai-7.png)](https://raw.githubusercontent.com/lxgw/LxgwZhenKai/main/image/zhenkai-7.png)
+
+### 加粗调整过程演示
+
+若想了解部分汉字的加粗及调整过程，请[点击此处](https://weibo.com/6624339726/Lbdz1u0yH)。
+
+（含有多个动图，流量党慎入）
+
+## 注意事项
+
+1. 由于手动调整需要时间，**因此测试版字数较少**。测试版包含 GB 2312 一级汉字 3755 字、《通用规范汉字表》一级汉字 3500 字以及《现代汉语常用字表》3500 字，以及少许二级字。目前 0.5 测试版本含有 **5120** 个简体汉字，满足最基本的简体中文用字需求。
+2. 本字体最终将会补完 **GB 2312** 和**《通用规范汉字表》**，由于繁体字普遍笔画繁多，会增加更多的工作量，所以目前没有加粗调整繁体字的计划，敬请谅解。
+3. 本人不是专业的字体设计师，无论是加粗还是手动调整都是凭自己的感觉，不过并非「霞鹜文楷 Bold（Medium）」那样的简单的机械式加粗，聊胜于无。
+
+## 获取方式
+
+1. [GitHub 项目页面](https://github.com/lxgw/LxgwZhenKai) 进入 [Release](https://github.com/lxgw/LxgwZhenKai/releases/latest) 界面下载。
+2. [永硕盘](http://lxgw.ys168.com/) *（「霞鹜文楷」及其他自制的开源字体也可在此获取。）*
+3. [蓝奏云（密码：8ppk）](https://lxgw.lanzoui.com/b0cqwpt3i) *（包含 TTF 格式字体文件，以及用文楷屏幕版补全的字体打包成的 Magisk 模块。「霞鹜文楷」字体也可在此获取。）*
+4. [猫啃网]已上架，更新可能会晚一些。
+
+## 授权许可
+
+本字体是基于 SIL Open Font License 1.1 改造的 FONTWORKS 开发并发布的 [Klee](https://github.com/fontworks-fonts/Klee) 开源项目。Klee 是 FONTWORKS 的商标。
+
+### 许可
+
+- 这款字体无论是个人还是企业都可以自由商用，无需付费，也无需知会或者标明原作者。 *（但如果告知，我会很感激。）*
+- 这款字体可以自由传播、分享，或者将字体安装于系统、软件或APP中也是允许的，可以与任何软件捆绑再分发以及／或一并销售。
+- 这款字体可以自由修改、改造，制作衍生字体。修改或改造后的字体也必须同样以 [SIL OFL](https://scripts.sil.org/OFL) 公开。
+
+### 限制
+
+- 在制作衍生字体时，字体名称不可使用原有字体的「保留名称」。
+- 这款字体不能用于违法行为，如因使用这款字体产生纠纷或法律诉讼，作者不承担任何责任。
+- 根据 [SIL Open Font License 1.1](https://scripts.sil.org/OFL) 的规定， **禁止单独出售字体文件(OTF/TTF文件)的行为。**
+
+## 后记
+
+时光荏苒，不知不觉中，我已踏入社会半年，早已不再是一个学生。
+
+假如我还在上学，没有毕业，现在已经是寒假，那么过年之前基本上能将目标范围内的所有字加粗调整完，1.0 版本也会很快出来。然而，由于施工单位的作息安排，时间极其有限，也就每天晚上有时间，所以就挑过年的时间把包含常用字的测试版放出来，剩下的那些字，就只能找空闲时间慢慢调了。
+
+加粗和调整过程中，有时遇到笔画繁多的字，还需要降低水平或竖直方向的加粗值，否则会糊成一片，所以目前遇到笔画较多较密的字，都是一个字一个字地调整和加粗。这也是为什么之前有人觉得文楷 Bold 字重太细，想求个更粗的字重，我拒绝的原因，觉得提出这个要求的人并没有考虑到我的空余时间和精力。另外，Klee 原版真的很细，想做一个粗一点的很不容易。
+
+另外，发布完测试版之后，由于年后项目要大干，所以包含 GB 2312 和《通用规范汉字表》前两级的 1.0 正式版应该不会很快。目前只有改简体的计划，最终将会补完 GB 2312 和《通用规范汉字表》。由于繁体字普遍笔画繁多，会增加更多的工作量，所以目前没有加粗调整繁体字的计划，敬请谅解。
+
+说个题外话，在我改造字体的时候，每当有家人、同学或同事经过，我都会下意识地点击「显示桌面」，当别人问我干什么的时候，我总会难以启齿，感觉非常不好意思。
+
+有时候我在想，我的这个「兴趣爱好」，与我的专业、工作完全不相干，甚至可能会影响我的学习或工作，影响我与别人的交流，我为什么要坚持下去呢，为什么要极力狂热追求呢？改造字体的过程如此枯燥，为何我还乐此不疲？可能是我实在不喜欢我现在的专业和职业吧，然而，谁让当初选错了路，谁让当初不努力呢……
+
+回到家之后，我在电脑前做这款字体，看到父母在旁边问我干什么，弄这个字体究竟是为什么，我实在不好意思回答。他们担心我被这个东西所牵绊，影响我的学习、工作和生活，使我不再关注身边的人和事、关心自己现实生活中的东西；我也已经觉得，这个所谓的「业余爱好」已经深深影响到我的自身了。因此，我做了一个艰难的决定：这款字体最终完成之后，不再制作任何新的字体，淡出与字体相关的圈子，从此多多关注自己工作和现实生活上的事情，多多关注身边的人和事，不再往这种与本职无关的东西上耗费自己的时间和精力。从大学到现在，一直被这个所谓的「业余爱好」牵绊着，随着工作的逐渐繁忙以及年龄的逐渐增长，是时候金盆洗手了。公众号有幸获得 5w 关注，酷安有幸获得 2w 关注，微博也有幸获得 5k 关注，在此感谢各位大家一路上的陪伴与支持。
+
+*（类似的话已经说过不知多少次，但到该放下的时候还是难以放下，毕竟本人从小就对字体感兴趣，直到现在……）*
+
+**最后，祝大家新春快乐，虎年大吉，万事如意！**
