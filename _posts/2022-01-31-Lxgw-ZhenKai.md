@@ -16,19 +16,19 @@ keywords: 霞鹜臻楷, 臻楷
 
 ### 字体预览
 
-[![img](https://raw.githubusercontent.com/lxgw/LxgwZhenKai/main/image/zhenkai-1.png)](https://raw.githubusercontent.com/lxgw/LxgwZhenKai/main/image/zhenkai-1.png)
+![img](https://raw.githubusercontent.com/lxgw/LxgwZhenKai/main/image/zhenkai-1.png)
 
-[![img](https://raw.githubusercontent.com/lxgw/LxgwZhenKai/main/image/zhenkai-2.png)](https://raw.githubusercontent.com/lxgw/LxgwZhenKai/main/image/zhenkai-2.png)
+![img](https://raw.githubusercontent.com/lxgw/LxgwZhenKai/main/image/zhenkai-2.png)
 
-[![img](https://raw.githubusercontent.com/lxgw/LxgwZhenKai/main/image/zhenkai-3.png)](https://raw.githubusercontent.com/lxgw/LxgwZhenKai/main/image/zhenkai-3.png)
+![img](https://raw.githubusercontent.com/lxgw/LxgwZhenKai/main/image/zhenkai-3.png)
 
-[![img](https://raw.githubusercontent.com/lxgw/LxgwZhenKai/main/image/zhenkai-4.png)](https://raw.githubusercontent.com/lxgw/LxgwZhenKai/main/image/zhenkai-4.png)
+![img](https://raw.githubusercontent.com/lxgw/LxgwZhenKai/main/image/zhenkai-4.png)
 
-[![img](https://raw.githubusercontent.com/lxgw/LxgwZhenKai/main/image/zhenkai-5.png)](https://raw.githubusercontent.com/lxgw/LxgwZhenKai/main/image/zhenkai-5.png)
+![img](https://raw.githubusercontent.com/lxgw/LxgwZhenKai/main/image/zhenkai-5.png)
 
-[![img](https://raw.githubusercontent.com/lxgw/LxgwZhenKai/main/image/zhenkai-6.png)](https://raw.githubusercontent.com/lxgw/LxgwZhenKai/main/image/zhenkai-6.png)
+![img](https://raw.githubusercontent.com/lxgw/LxgwZhenKai/main/image/zhenkai-6.png)
 
-[![img](https://raw.githubusercontent.com/lxgw/LxgwZhenKai/main/image/zhenkai-7.png)](https://raw.githubusercontent.com/lxgw/LxgwZhenKai/main/image/zhenkai-7.png)
+![img](https://raw.githubusercontent.com/lxgw/LxgwZhenKai/main/image/zhenkai-7.png)
 
 ### 加粗调整过程演示
 
