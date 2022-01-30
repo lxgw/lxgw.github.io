@@ -6,8 +6,6 @@ description: 「霞鹜臻楷」在使用字体编辑软件加粗功能的基础�
 keywords: 霞鹜臻楷, 臻楷
 ---
 
-## 前言
-
 由于工作原因，已经半年没有动博客了，或许上学时更新这个博客的热情，已随着毕业和工作消退了吧。现在已经放假回家，选择除夕这一天更新，祝大家新春快乐，虎年大吉！
 
 ## 字体介绍
@@ -47,7 +45,7 @@ keywords: 霞鹜臻楷, 臻楷
 1. [GitHub 项目页面](https://github.com/lxgw/LxgwZhenKai) 进入 [Release](https://github.com/lxgw/LxgwZhenKai/releases/latest) 界面下载。
 2. [永硕盘](http://lxgw.ys168.com/) *（「霞鹜文楷」及其他自制的开源字体也可在此获取。）*
 3. [蓝奏云（密码：8ppk）](https://lxgw.lanzoui.com/b0cqwpt3i) *（包含 TTF 格式字体文件，以及用文楷屏幕版补全的字体打包成的 Magisk 模块。「霞鹜文楷」字体也可在此获取。）*
-4. [猫啃网]已上架，更新可能会晚一些。
+4. [猫啃网](https://www.maoken.com/freefonts/14773.html) 已上架，更新可能会晚一些。
 
 ## 授权许可
 
