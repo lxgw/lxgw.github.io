@@ -41,7 +41,7 @@ topmost: true
 | ------------------------------------------------------------ | ------------ | ------------ | ------------------------------------------------------------ |
 | [小赖字体](https://github.com/lxgw/kose-font)                | ★★★★★        | ★★★★★        | GB18030 + 通规 + 原有日文字库                                |
 | [悠哉字体](https://github.com/lxgw/yozai-font)               | ★★★★★        | ★★★★★        | GB2312 + 通规 + GB12345 + BIG5 + 原有日文字库（[Adobe Japan 1-6](https://github.com/adobe-type-tools/Adobe-Japan1)） |
-| [霞鹜文楷](https://github.com/lxgw/LxgwWenKai)               | ★★★★★        | ★★★★★        | GB2312 + 通规 + GB12345 + BIG5一级 + 原有日文字库（[Adobe Japan 1-4]((https://github.com/adobe-type-tools/Adobe-Japan1))） |
+| [霞鹜文楷](https://github.com/lxgw/LxgwWenKai)               | ★★★★★        | ★★★★★        | GB2312 + 通规 + GB12345 + BIG5一级 + 原有日文字库（[Adobe Japan 1-4]((https://github.com/adobe-type-tools/Adobe-Japan1))）（完整版包含 GBK） |
 | [霞鹜臻楷](https://github.com/lxgw/LxgwZhenKai)               | ★★★★☆        | ☆☆☆☆☆        | GB2312 + 通规（最终字库） |
 | [霞鹜晰黑](https://github.com/lxgw/LxgwClearGothic)          | ★★★★★        | ★★★★★        | GB2312 + 通规 + GB12345 + BIG5一级 + 原有日文字库（JIS 第一/二水准） |
 | [霞鹜新晰黑](https://github.com/lxgw/LxgwNewClearGothic) [霞鹜尚智黑](https://www.maoken.com/freefonts/10610.html) | ★★★★★        | ☆☆☆☆☆        | GB2312 + 通规（仅简体）                                      |
@@ -49,7 +49,7 @@ topmost: true
 
 **注释：**
 
-1. GB 2312-80 共 6763 字（仅简体）， GB 18030-2000 共 27533 字（简繁均有）。 GB 2312 含于 GB 18030。
+1. GB 2312-80 共 6763 个简体汉字，包含一级汉字 3755 个（拼音序）和二级汉字 3008 个（部首序）；GB 18030-2000 包含 20902 个 CJK 基本区汉字及 6582 个 CJK 扩展 A 区汉字（简繁均有），GBK 包含 20902 个 CJK 基本汉字，GB 18030 和 GBK 向下兼容 GB 2312。
 2. GB 12345-90 是 GB 2312 对应繁体字符集，共 6866 字（包括 103 个「一简对多繁」扩充汉字）。
 3. **3603** 指简体中文 3603 常用汉字，包括「现代汉语常用字表」（老 3500 字）及「义务教育语文课程常用字表」（新 3500 字，《通用规范汉字表》一级字表），新老 3500 加一起共 3603 个字（新老 3500 常用字有 103 个字不重合，详见[百度百科：现代汉语常用字表-相关比较](https://baike.baidu.com/item/%E7%8E%B0%E4%BB%A3%E6%B1%89%E8%AF%AD%E5%B8%B8%E7%94%A8%E5%AD%97%E8%A1%A8/8922402?fr=aladdin#9)）。「啰」「瞭」2 个字不见于 GB 2312 字表。（「啰嗦」「瞭望」一词曾写作「罗嗦」「了望」。）
 4. **4808** 指繁体中文 4808 常用字，即台湾地区「常用国字标准字体表」所收录的字。
