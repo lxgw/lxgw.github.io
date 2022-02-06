@@ -24,7 +24,7 @@ topmost: true
 | [悠哉字体 / Yozai](https://github.com/lxgw/yozai-font) ([猫啃](https://www.maoken.com/freefonts/5423.html)) **<sup>推荐</sup>** | [SIL OFL](https://scripts.sil.org/OFL) ([汉译](https://www.maoken.com/ofl)) | 手写                  | 2020.6   | [Y.Oz Font](http://yozvox.web.fc2.com/)                      |
 | [霞鹜漫黑 / LXGW Marker Gothic ](https://github.com/lxgw/LxgwMarkerGothic)([猫啃](https://www.maoken.com/freefonts/9523.html)) *<sup>未完成，已弃</sup>* | [SIL OFL](https://scripts.sil.org/OFL) ([汉译](https://www.maoken.com/ofl)) | POP                   | 2021.1   | [たぬゴ角](https://tanukifont.com/tanugo/)                   |
 | [霞鹜文楷 / LXGW WenKai ](https://github.com/lxgw/LxgwWenKai)([猫啃](https://www.maoken.com/freefonts/9704.html)) **<sup>推荐</sup>** | [SIL OFL](https://scripts.sil.org/OFL) ([汉译](https://www.maoken.com/ofl)) | 楷体                  | 2021.2   | [Klee One](https://github.com/fontworks-fonts/Klee)          |
-| [霞鹜臻楷 / LXGW ZhenKai ](https://github.com/lxgw/LxgwZhenKai)([猫啃](https://www.maoken.com/freefonts/14773.html)) **<sup>BETA</sup>** | [SIL OFL](https://scripts.sil.org/OFL) ([汉译](https://www.maoken.com/ofl)) | 楷体                  | 2022.1   | [Klee One](https://github.com/fontworks-fonts/Klee)          |
+| [霞鹜臻楷 / LXGW ZhenKai ](https://github.com/lxgw/LxgwZhenKai)([猫啃](https://www.maoken.com/freefonts/14773.html)) **<sup>BETA</sup>** | [SIL OFL](https://scripts.sil.org/OFL) ([汉译](https://www.maoken.com/ofl)) | 粗楷体                  | 2022.1   | [Klee One](https://github.com/fontworks-fonts/Klee)          |
 | [霞鹜晰黑 / LXGW Clear Gothic](https://github.com/lxgw/LxgwClearGothic) ([猫啃](https://www.maoken.com/freefonts/8781.html)) *<sup>弃更</sup>* | [IPA](https://moji.or.jp/ipafont/license/) ([汉译](https://www.maoken.com/ipa)) | 黑体 *（旧字形）*     | 2020.12  | [IPA exゴシック](https://ipafont.ipa.go.jp/)                 |
 | [霞鹜新晰黑 / LXGW New Clear Gothic](https://github.com/lxgw/LxgwNewClearGothic) ([猫啃](https://www.maoken.com/freefonts/8999.html)) | [IPA](https://moji.or.jp/ipafont/license/) ([汉译](https://www.maoken.com/ipa)) | 黑体 *（大陆新字形）* | 2021.1   | [IPA exゴシック](https://ipafont.ipa.go.jp/)                 |
 | [霞鹜尚智黑 / LXGW Fasmart Gothic（仅猫啃网）](https://www.maoken.com/freefonts/10610.html) | [IPA](https://moji.or.jp/ipafont/license/) ([汉译](https://www.maoken.com/ipa)) | 黑体                  | 2021.4   | [03スマートフォントUI](http://www.flopdesign.com/freefont/smartfont.html) |
@@ -54,7 +54,7 @@ topmost: true
 3. **3603** 指简体中文 3603 常用汉字，包括「现代汉语常用字表」（老 3500 字）及「义务教育语文课程常用字表」（新 3500 字，《通用规范汉字表》一级字表），新老 3500 加一起共 3603 个字（新老 3500 常用字有 103 个字不重合，详见[百度百科：现代汉语常用字表-相关比较](https://baike.baidu.com/item/%E7%8E%B0%E4%BB%A3%E6%B1%89%E8%AF%AD%E5%B8%B8%E7%94%A8%E5%AD%97%E8%A1%A8/8922402?fr=aladdin#9)）。「啰」「瞭」2 个字不见于 GB 2312 字表。
 4. **4808** 指繁体中文 4808 常用字，台湾地区称「常用国字标准字体表」，含于 BIG5 字表。
 5. **BIG5** 指繁体中文地区通行的「大五码」字符集标准，共 13058 字。分常用字（一级）和次常用字（二级），常用字表 5401 字。
-7. **通规** 指《通用规范汉字表》，共 8105 个字，跨越 CJK 统一汉字基本区及扩展 A～E 区，与 GB 2312 表有 6638 个字重合（简体为主）。GB 2312 一级字「磺」「硷」「矽」为通规表所无。（注：「硫磺」可称为「硫黄」，但在「牛磺酸」等词中「磺」字无可替代；「硷」「矽」分别同「碱」「硅」，但「矽」字仍在「矽肺」一词中使用，属于习惯用法。）
+7. **通规** 指《通用规范汉字表》，共 8105 个字，跨越 CJK 统一汉字基本区及扩展 A～E 区，与 GB 2312 表有 6638 个字重合（简体为主）。GB 2312 一级字「磺」「硷」「矽」为通规表所无。（注：「硫磺」可称为「硫黄」，但在「牛磺酸」等词中「磺」字无可替代；「硷」「矽」分别同「碱」「硅」，但「矽」字仍在「矽肺」「矽卡岩」等词中使用。）
 
 ## 使用许可与限制
 
