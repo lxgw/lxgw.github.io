@@ -31,11 +31,11 @@ topmost: true
 | [霞鹜尚智黑 / LXGW Fasmart Gothic（仅猫啃网）](https://www.maoken.com/freefonts/10610.html)                                               | [IPA](https://moji.or.jp/ipafont/license/) ([汉译](https://www.maoken.com/ipa)) | 黑体           | 2021.4  | [03スマートフォントUI](http://www.flopdesign.com/freefont/smartfont.html) | ⑤                                                                                                                                   |
 
 > **备注说明：**
-> 1. 该字体使用空间已被同类字体挤压。
+> 1. 该类字体已有更好的替代品，故不再更新。
 > 2. 该字体有一定的缺字和日系写法，使用需谨慎。工作原因暂停更新。
 > 3. 该字体包含[完整版](https://github.com/lxgw/LxgwWenKai)和[轻便版](https://github.com/lxgw/LxgwWenKai-Lite)。完整版包含 GBK 汉字和常用朝韩谚文，但部分汉字字形由 zi2zi 生成，轮廓较粗糙，且谚文拼接较拙劣。轻便版不包含谚文及 zi2zi 生成的字形。
 > 4. 该字体在轻便版文楷的基础上修改字形为传承字形，部分部件参考[一点字坊《传承字形标准化文件》](https://github.com/ichitenfont/inheritedglyphs)进行修改，适用于繁体用户及旧字形爱好者。
-> 5. 限于本人制作水平，该字体仍有大量字形不协调、不美观，使用需谨慎。工作原因暂停更新。
+> 5. 限于本人制作水平，该字体仍有大量字形不协调、不美观，使用需谨慎。目前正在对字形进行优化。
 
 另有 3 款由思源黑体轻度改造的 **「975」系列字体**，由于质量较差，就不在这里列出，可在 [「猫啃网」](https://www.maoken.com/?s=975) 搜索下载。
 
