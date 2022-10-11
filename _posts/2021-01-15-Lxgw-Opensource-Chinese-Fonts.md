@@ -58,7 +58,7 @@ topmost: true
 | [霞鹜臻楷](https://github.com/lxgw/LxgwZhenKai)（弃更归档）    | ★★★★☆        | ☆☆☆☆☆        | GB2312 + 通规前两级（仅简体）                                |
 | [霞鹜晰黑](https://github.com/lxgw/LxgwClearGothic)（弃更归档） | ★★★★★        | ★★★★★        | GB2312 + 通规 + GB12345 + BIG5一级 + 原有日文字库（JIS 第一/二水准） |
 
-**注释：** （如以下表述有不严谨之处，敬请指出）
+**注释：** （如以下表述有不严谨之处，敬请指出，以匡不逮。）
 
 1. [GB/T 2312-80](https://github.com/NightFurySL2001/cjktables/blob/master/china/encoding/gb_t_2312.txt) 共 6763 个简体汉字，包含一级汉字 3755 个（拼音序）和二级汉字 3008 个（部首序）；GB 18030-2000 包含 20902 个 CJK 基本区汉字及 6582 个 CJK 扩展 A 区汉字（简繁均有），[GBK](https://github.com/NightFurySL2001/cjktables/blob/master/china/encoding/gbk.txt) 包含 20902 个 CJK 基本汉字，GB 18030 和 GBK 向下兼容 GB 2312。（注：GB 2312 原标准收录了两个繁体字「鍾」「麴」，「鍾」在后续的编码实践方式中已修正为「锺」，「麴」未更正为「麹」。）
 2. [GB/T 12345-90](https://github.com/NightFurySL2001/cjktables/blob/master/china/encoding/gb_t_12345.txt) 是 GB 2312 对应繁体字符集，共 6866 字（包括 103 个「一简对多繁」补充汉字）。
