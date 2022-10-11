@@ -45,6 +45,13 @@ topmost: true
 
 字体 7z 压缩包和 Magisk 模块可在 [永硕个人网盘](http://lxgw.ys168.com) 下载，已上传除漫黑、尚智黑、975 系列以外的 TTF 和 Magisk 模块。**（有访问流量限制）**
 
+此外还有两款**缝合字体**：
+
+| 字体                                                     | 说明                                                         | 授权方式 |
+| -------------------------------------------------------- | ------------------------------------------------------------ | -------- |
+| [缝合楷 / Fusion Kai](https://github.com/lxgw/FusionKai) | 将[「霞鹜文楷 GB」](https://github.com/lxgw/LxgwWenkaiGB)[「芫荽」](https://github.com/ButTaiwan/iansui)[「Klee One」](https://github.com/fontworks-fonts/Klee)等字体相互合并制成的以各地字形为主的 Klee One 衍生字体。 | SIL OFL  |
+| [LXGW Bright](https://github.com/lxgw/LxgwBright)        | 由 [Ysabeau Office](https://github.com/CatharsisFonts/Ysabeau) 与 [霞鹜文楷系列字体](https://github.com/lxgw/LxgwWenKai) 合并而成的字体。 | SIL OFL  |
+
 ## 包含字数等级参考
 
 | 字体名称                                                     | 简体字数等级 | 繁体字数等级 | 包含字库参考                                                 |
