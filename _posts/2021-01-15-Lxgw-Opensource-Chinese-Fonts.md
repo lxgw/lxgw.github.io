@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 自制开源免费字体一览（截至 2022.10.09）
+title: 自制开源免费字体一览（截至 2023.01.14）
 categories: 开源中文字体
 description: 在原有开源字体基础上改造成的中文字体，可免费商用。
 keywords: 字体, 开源字体, 中文字体, 免费商用字体
@@ -27,17 +27,16 @@ topmost: true
 | [霞鹜臻楷 / LXGW ZhenKai ](https://github.com/lxgw/LxgwZhenKai)([猫啃](https://www.maoken.com/freefonts/14773.html)) | [SIL OFL](https://scripts.sil.org/OFL) ([汉译](https://www.maoken.com/ofl)) | 粗楷体                | 2022.1   | [Klee One](https://github.com/fontworks-fonts/Klee)          | [弃更归档](https://www.coolapk.com/feed/36502442?shareKey=NDhhODA0NDY5NDAwNjI5ZTk3YzM~&shareUid=633884&shareFrom=com.coolapk.market_12.3) |
 | [霞鹜文楷 TC / LXGW WenKai TC](https://github.com/lxgw/LxgwWenkaiTC)([猫啃](https://www.maoken.com/freefonts/16424.html)) | [SIL OFL](https://scripts.sil.org/OFL) ([汉译](https://www.maoken.com/ofl)) | 楷体 *（旧字形）*     | 2022.6   | [Klee One](https://github.com/fontworks-fonts/Klee)          | ④                                                            |
 | [霞鹜文楷 GB / LXGW WenKai GB](https://github.com/lxgw/LxgwWenkaiGB)([猫啃](https://www.maoken.com/freefonts/16424.html)) | [SIL OFL](https://scripts.sil.org/OFL) ([汉译](https://www.maoken.com/ofl)) | 楷体 *（大陆新字形）* | 2022.8   | [Klee One](https://github.com/fontworks-fonts/Klee)          |                                                              |
-| [霞鹜晰黑 / LXGW Clear Gothic](https://github.com/lxgw/LxgwClearGothic) ([猫啃](https://www.maoken.com/freefonts/8781.html)) | [IPA](https://moji.or.jp/ipafont/license/) ([汉译](https://www.maoken.com/ipa)) | 黑体 *（旧字形）*     | 2020.12  | [IPA exゴシック](https://ipafont.ipa.go.jp/)                 | [弃更归档](https://github.com/lxgw/LxgwClearGothic/issues/12)    |
-| [霞鹜新晰黑 / LXGW New Clear Gothic](https://github.com/lxgw/LxgwNewClearGothic) ([猫啃](https://www.maoken.com/freefonts/8999.html)) | [IPA](https://moji.or.jp/ipafont/license/) ([汉译](https://www.maoken.com/ipa)) | 黑体 *（大陆新字形）* | 2021.1   | [IPA exゴシック](https://ipafont.ipa.go.jp/)                 | ⑤                                                            |
-| [霞鹜尚智黑 / LXGW Fasmart Gothic（仅猫啃网）](https://www.maoken.com/freefonts/10610.html) | [IPA](https://moji.or.jp/ipafont/license/) ([汉译](https://www.maoken.com/ipa)) | 黑体                  | 2021.4   | [03スマートフォントUI](http://www.flopdesign.com/freefont/smartfont.html) | ⑤                                                            |
+| [霞鹜晰黑 / LXGW Clear Gothic](https://github.com/lxgw/LxgwClearGothic) ([猫啃](https://www.maoken.com/freefonts/8781.html)) | [IPA](https://moji.or.jp/ipafont/license/) ([汉译](https://www.maoken.com/ipa)) | 黑体 *（旧字形）*     | 2020.12  | [IPA exゴシック](https://ipafont.ipa.go.jp/)                 | [弃更归档](https://github.com/lxgw/LxgwClearGothic/issues/12) |
+| [霞鹜新晰黑 / LXGW New Clear Gothic](https://github.com/lxgw/LxgwNewClearGothic) ([猫啃](https://www.maoken.com/freefonts/8999.html)) | [IPA](https://moji.or.jp/ipafont/license/) ([汉译](https://www.maoken.com/ipa)) | 黑体 *（大陆新字形）* | 2021.1   | [IPA exゴシック](https://ipafont.ipa.go.jp/)                 |                                                              |
+| [霞鹜尚智黑 / LXGW Fasmart Gothic（仅猫啃网）](https://www.maoken.com/freefonts/10610.html) | [IPA](https://moji.or.jp/ipafont/license/) ([汉译](https://www.maoken.com/ipa)) | 黑体 *（大陆新字形）* | 2021.4   | [03スマートフォントUI](http://www.flopdesign.com/freefont/smartfont.html) |                                                              |
 
 > **备注说明：**
 >
 > 1. 该类字体已有更好的替代品，故不再更新。
-> 2. 该字体有一定的缺字和日系写法，使用需谨慎。工作原因暂停更新。
+> 2. 该字体有一定的缺字和日系写法，使用需谨慎。后续该字体将仅含简体，计划补完 GB/T 2312 及通用规范汉字表前两级。
 > 3. 该字体包含[完整版](https://github.com/lxgw/LxgwWenKai)和[轻便版](https://github.com/lxgw/LxgwWenKai-Lite)。完整版包含 GBK 汉字和常用朝韩谚文，但部分汉字字形由 zi2zi 生成，轮廓较粗糙，且谚文拼接较拙劣。轻便版不包含谚文及 zi2zi 生成的字形。
-> 4. 该字体在轻便版文楷的基础上修改字形为传承字形，部分部件参考[一点字坊《传承字形标准化文件》](https://github.com/ichitenfont/inheritedglyphs)进行修改，适用于繁体用户及旧字形爱好者。
-> 5. 限于本人制作水平，该字体仍有大量字形不协调、不美观，使用需谨慎。目前正在对字形进行优化。
+> 4. 该字体在轻便版文楷的基础上修改字形为传承字形，部分部件参考[一点字坊《传承字形标准化文件》](https://github.com/ichitenfont/inheritedglyphs)进行修改，适用于繁体用户及旧字形爱好者，但并不完全遵循「检校表」修改。
 
 另有 3 款由思源黑体轻度改造的 **「975」系列字体**，由于质量较差，就不在这里列出，可在 [「猫啃网」](https://www.maoken.com/?s=975) 搜索下载。
 
@@ -56,13 +55,13 @@ topmost: true
 
 | 字体名称                                                     | 简体字数等级 | 繁体字数等级 | 包含字库参考                                                 |
 | ------------------------------------------------------------ | ------------ | ------------ | ------------------------------------------------------------ |
-| [小赖字体](https://github.com/lxgw/kose-font)                | ★★★★★        | ★★★★★        | GB18030 + 通规 + 原有日文字库                                |
+| [小赖字体](https://github.com/lxgw/kose-font)                | ★★★★★        | ★★★★★        | GB 18030-2022 实现级别二 + 原有日文字库                      |
 | [悠哉字体](https://github.com/lxgw/yozai-font)               | ★★★★★        | ★★★★★        | GB2312 + 通规 + GB12345 + BIG5 + 原有日文字库（[Adobe Japan 1-6](https://github.com/adobe-type-tools/Adobe-Japan1)） |
 | [霞鹜文楷](https://github.com/lxgw/LxgwWenKai)               | ★★★★★        | ★★★★★        | GB2312 + 通规 + GB12345 + BIG5一级 + 原有日文字库（[Adobe Japan 1-4]((https://github.com/adobe-type-tools/Adobe-Japan1))）（完整版包含 GBK） |
 | [霞鹜文楷 GB](https://github.com/lxgw/LxgwWenKaiGB)          | ★★★★★        | ☆☆☆☆☆        | GB2312 + 通规 + 现代汉语通用字表                             |
-| [霞鹜新晰黑](https://github.com/lxgw/LxgwNewClearGothic) [霞鹜尚智黑](https://www.maoken.com/freefonts/10610.html) | ★★★★★        | ☆☆☆☆☆        | GB2312 + 通规（仅简体）                                      |
+| [霞鹜新晰黑](https://github.com/lxgw/LxgwNewClearGothic) [霞鹜尚智黑](https://www.maoken.com/freefonts/10610.html) | ★★★★★        | ★★★★★        | GB2312 + 通规（仅简体）                                      |
 | [霞鹜漫黑](https://github.com/lxgw/LxgwMarkerGothic)         | ★★★☆☆        | ★★★☆☆        | 简常 + 原有日文字库（JIS 第一/二水准）                       |
-| [霞鹜臻楷](https://github.com/lxgw/LxgwZhenKai)（弃更归档）    | ★★★★☆        | ☆☆☆☆☆        | GB2312 + 通规前两级（仅简体）                                |
+| [霞鹜臻楷](https://github.com/lxgw/LxgwZhenKai)（弃更归档）  | ★★★★☆        | ☆☆☆☆☆        | GB2312 + 通规前两级（仅简体）                                |
 | [霞鹜晰黑](https://github.com/lxgw/LxgwClearGothic)（弃更归档） | ★★★★★        | ★★★★★        | GB2312 + 通规 + GB12345 + BIG5一级 + 原有日文字库（JIS 第一/二水准） |
 
 **注释：** （如以下表述有不严谨之处，敬请指出，以匡不逮。）
@@ -93,24 +92,13 @@ topmost: true
    > 
    > 可以用、可以嵌、可以改、不能单独卖。
 
-2. 对于 **IPA Font License 1.0**  授权字体的使用许可与限制说明如下。 *（适用于「晰黑」「新晰黑」及「尚智黑」）*
+2. 对于 **IPA Font License 1.0**  授权字体的简要说明如下。 *（适用于「晰黑」「新晰黑」及「尚智黑」）*
    
-   > #### 允许做的事：
-   > 
-   > - 这款字体可以在任何设备上安装，可自由用于印刷物、图片、视频等，无需付费，也无需知会或者标明原作者。
-   > - 这款字体可以自由传播、分享，或者将字体安装于系统、软件或APP中也是允许的。
-   > - 这款字体可以自由修改、改造，制作衍生字体。修改或改造后的字体也必须同样以 [IPA Font License 1.0](https://moji.or.jp/ipafont/license/) 公开。
-   > 
-   > #### 注意事项：
-   > 
-   > - 在制作衍生字体时，字体名称不可使用原有字体的「保留名称」 *（即从 IPA 字体衍生的字体不能以「IPA」命名。）*
-   > 
-   > #### 简言之：
-   > 
-   > 可以用，可以嵌，可以改，不能单独卖。
+   > - 但凡有任何人使用、复制、修改、分发本字体，或对本字型进行任何符合 IPA Font License 1.0 规定的行为，使用、下载或行使合约规定权利之接受方，亦视为同意遵守 IPA Font License 1.0 的一切规定。
+   > - 根据 IPA Font License 1.0 有关条款，在没有邮费、存储媒介费用和手续费的情况下，须免费提供字体文件。后续衍生不可使用原始授权程序的名称（包括程序名、文件名、字体名），且须在相同许可下授权。
 
-**注意：** SIL OFL 与 IPA Font License 各自要求衍生字体以相同的条款发布（「相同方式共享」/ Share Alike），故这两种授权许可彼此不兼容，将这两种不同授权方式的字体混合成的字体不可公开发布。
+**注意：** SIL OFL 与 IPA Font License 各自要求衍生字体以相同的条款发布（类似「知识共享」（Creative Commons）许可协议中的「相同方式共享」/ Share Alike），故这两种授权许可彼此不兼容。
 
 ---
 
-以上字体均为开源字体，允许自由分享、下载、用于商业用途，也欢迎专业人士或业余字体爱好者在这些字体基础上修改、优化或衍生。
+以上字体均为开源字体，允许自由分享、下载、用于商业用途，也欢迎专业人士或业余字体爱好者在这些字体基础上修改、优化或衍生，但需遵循各自的开源许可条款。
