@@ -27,9 +27,9 @@ topmost: true
 | [霞鹜臻楷 / LXGW ZhenKai ](https://github.com/lxgw/LxgwZhenKai)([猫啃](https://www.maoken.com/freefonts/14773.html)) | [SIL OFL](https://scripts.sil.org/OFL) ([汉译](https://www.maoken.com/ofl)) | 粗楷体                | 2022.1   | [Klee One](https://github.com/fontworks-fonts/Klee)          | [弃更归档](https://www.coolapk.com/feed/36502442?shareKey=NDhhODA0NDY5NDAwNjI5ZTk3YzM~&shareUid=633884&shareFrom=com.coolapk.market_12.3) |
 | [霞鹜文楷 TC / LXGW WenKai TC](https://github.com/lxgw/LxgwWenkaiTC)([猫啃](https://www.maoken.com/freefonts/16424.html)) | [SIL OFL](https://scripts.sil.org/OFL) ([汉译](https://www.maoken.com/ofl)) | 楷体 *（旧字形）*     | 2022.6   | [Klee One](https://github.com/fontworks-fonts/Klee)          | ④                                                            |
 | [霞鹜文楷 GB / LXGW WenKai GB](https://github.com/lxgw/LxgwWenkaiGB)([猫啃](https://www.maoken.com/freefonts/16424.html)) | [SIL OFL](https://scripts.sil.org/OFL) ([汉译](https://www.maoken.com/ofl)) | 楷体 *（大陆新字形）* | 2022.8   | [Klee One](https://github.com/fontworks-fonts/Klee)          |                                                              |
-| [霞鹜晰黑 / LXGW Clear Gothic](https://github.com/lxgw/LxgwClearGothic) ([猫啃](https://www.maoken.com/freefonts/8781.html)) | [IPA](https://moji.or.jp/ipafont/license/) ([汉译](https://www.maoken.com/ipa)) | 黑体 *（旧字形）*     | 2020.12  | [IPA exゴシック](https://ipafont.ipa.go.jp/)                 | [弃更归档](https://github.com/lxgw/LxgwClearGothic/issues/12) |
-| [霞鹜新晰黑 / LXGW New Clear Gothic](https://github.com/lxgw/LxgwNewClearGothic) ([猫啃](https://www.maoken.com/freefonts/8999.html)) | [IPA](https://moji.or.jp/ipafont/license/) ([汉译](https://www.maoken.com/ipa)) | 黑体 *（大陆新字形）* | 2021.1   | [IPA exゴシック](https://ipafont.ipa.go.jp/)                 |                                                              |
-| [霞鹜尚智黑 / LXGW Fasmart Gothic（仅猫啃网）](https://www.maoken.com/freefonts/10610.html) | [IPA](https://moji.or.jp/ipafont/license/) ([汉译](https://www.maoken.com/ipa)) | 黑体 *（大陆新字形）* | 2021.4   | [03スマートフォントUI](http://www.flopdesign.com/freefont/smartfont.html) |                                                              |
+| [霞鹜晰黑 / LXGW Clear Gothic](https://github.com/lxgw/LxgwClearGothic) ([猫啃](https://www.maoken.com/freefonts/8781.html)) | [IPA](https://moji.or.jp/ipafont/license/) ([汉译](https://github.com/lxgw/LxgwNeoXiHei/blob/main/LICENSE_CHS.md)) | 黑体 *（旧字形）*     | 2020.12  | [IPA exゴシック](https://ipafont.ipa.go.jp/)                 | [弃更归档](https://github.com/lxgw/LxgwClearGothic/issues/12) |
+| [霞鹜新晰黑 / LXGW New Clear Gothic](https://github.com/lxgw/LxgwNewClearGothic) ([猫啃](https://www.maoken.com/freefonts/8999.html)) | [IPA](https://moji.or.jp/ipafont/license/) ([汉译](https://github.com/lxgw/LxgwNeoXiHei/blob/main/LICENSE_CHS.md)) | 黑体 *（大陆新字形）* | 2021.1   | [IPA exゴシック](https://ipafont.ipa.go.jp/)                 |                                                              |
+| [霞鹜尚智黑 / LXGW Fasmart Gothic（仅猫啃网）](https://www.maoken.com/freefonts/10610.html) | [IPA](https://moji.or.jp/ipafont/license/) ([汉译](https://github.com/lxgw/LxgwNeoXiHei/blob/main/LICENSE_CHS.md)) | 黑体 *（大陆新字形）* | 2021.4   | [03スマートフォントUI](http://www.flopdesign.com/freefont/smartfont.html) | ⑤                                                            |
 
 > **备注说明：**
 >
@@ -37,6 +37,7 @@ topmost: true
 > 2. 该字体有一定的缺字和日系写法，使用需谨慎。后续该字体将仅含简体，计划补完 GB/T 2312 及通用规范汉字表前两级。
 > 3. 该字体包含[完整版](https://github.com/lxgw/LxgwWenKai)和[轻便版](https://github.com/lxgw/LxgwWenKai-Lite)。完整版包含 GBK 汉字和常用朝韩谚文，但部分汉字字形由 zi2zi 生成，轮廓较粗糙，且谚文拼接较拙劣。轻便版不包含谚文及 zi2zi 生成的字形。
 > 4. 该字体在轻便版文楷的基础上修改字形为传承字形，部分部件参考[一点字坊《传承字形标准化文件》](https://github.com/ichitenfont/inheritedglyphs)进行修改，适用于繁体用户及旧字形爱好者，但并不完全遵循「检校表」修改。
+> 5. 本字体为「霞鹜新晰黑」的赠品，后续更新中可能随时撤销。
 
 另有 3 款由思源黑体轻度改造的 **「975」系列字体**，由于质量较差，就不在这里列出，可在 [「猫啃网」](https://www.maoken.com/?s=975) 搜索下载。
 
@@ -58,8 +59,8 @@ topmost: true
 | [小赖字体](https://github.com/lxgw/kose-font)                | ★★★★★        | ★★★★★        | GB 18030-2022 实现级别二 + 原有日文字库                      |
 | [悠哉字体](https://github.com/lxgw/yozai-font)               | ★★★★★        | ★★★★★        | GB2312 + 通规 + GB12345 + BIG5 + 原有日文字库（[Adobe Japan 1-6](https://github.com/adobe-type-tools/Adobe-Japan1)） |
 | [霞鹜文楷](https://github.com/lxgw/LxgwWenKai)               | ★★★★★        | ★★★★★        | GB2312 + 通规 + GB12345 + BIG5一级 + 原有日文字库（[Adobe Japan 1-4]((https://github.com/adobe-type-tools/Adobe-Japan1))）（完整版包含 GBK） |
-| [霞鹜文楷 GB](https://github.com/lxgw/LxgwWenKaiGB)          | ★★★★★        | ☆☆☆☆☆        | GB2312 + 通规 + 现代汉语通用字表                             |
-| [霞鹜新晰黑](https://github.com/lxgw/LxgwNewClearGothic) [霞鹜尚智黑](https://www.maoken.com/freefonts/10610.html) | ★★★★★        | ★★★★★        | GB2312 + 通规（仅简体）                                      |
+| [霞鹜文楷 GB](https://github.com/lxgw/LxgwWenKaiGB)          | ★★★★★        | ☆☆☆☆☆        | GB2312 + [外字初步整理一览表](https://lxgw.github.io/2022/10/25/ext-characters-preliminary/)（第一部分） |
+| [霞鹜新晰黑](https://github.com/lxgw/LxgwNewClearGothic) [霞鹜尚智黑](https://www.maoken.com/freefonts/10610.html) | ★★★★★        | ★★★★★        | GB2312 + [外字初步整理一览表](https://lxgw.github.io/2022/10/25/ext-characters-preliminary/)（第一、二部分） |
 | [霞鹜漫黑](https://github.com/lxgw/LxgwMarkerGothic)         | ★★★☆☆        | ★★★☆☆        | 简常 + 原有日文字库（JIS 第一/二水准）                       |
 | [霞鹜臻楷](https://github.com/lxgw/LxgwZhenKai)（弃更归档）  | ★★★★☆        | ☆☆☆☆☆        | GB2312 + 通规前两级（仅简体）                                |
 | [霞鹜晰黑](https://github.com/lxgw/LxgwClearGothic)（弃更归档） | ★★★★★        | ★★★★★        | GB2312 + 通规 + GB12345 + BIG5一级 + 原有日文字库（JIS 第一/二水准） |
