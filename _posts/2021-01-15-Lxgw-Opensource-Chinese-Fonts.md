@@ -28,8 +28,9 @@ topmost: true
 | [霞鹜文楷 TC / LXGW WenKai TC](https://github.com/lxgw/LxgwWenkaiTC)([猫啃](https://www.maoken.com/freefonts/16424.html)) | [SIL OFL](https://scripts.sil.org/OFL) ([汉译](https://www.maoken.com/ofl)) | 楷体 *（旧字形）*     | 2022.6   | [Klee One](https://github.com/fontworks-fonts/Klee)          | ③                                                            |
 | [霞鹜文楷 GB / LXGW WenKai GB](https://github.com/lxgw/LxgwWenkaiGB)([猫啃](https://www.maoken.com/freefonts/16424.html)) | [SIL OFL](https://scripts.sil.org/OFL) ([汉译](https://www.maoken.com/ofl)) | 楷体 *（大陆新字形）* | 2022.8   | [Klee One](https://github.com/fontworks-fonts/Klee)          |                                                              |
 | [霞鹜晰黑 / LXGW Clear Gothic](https://github.com/lxgw/LxgwClearGothic) ([猫啃](https://www.maoken.com/freefonts/8781.html)) | [IPA](https://moji.or.jp/ipafont/license/) ([汉译](https://github.com/lxgw/LxgwNeoXiHei/blob/main/LICENSE_CHS.md)) | 黑体 *（旧字形）*     | 2020.12  | [IPA exゴシック](https://ipafont.ipa.go.jp/)                 | [弃更归档](https://github.com/lxgw/LxgwClearGothic/issues/12) |
-| [霞鹜新晰黑 / LXGW New Clear Gothic](https://github.com/lxgw/LxgwNewClearGothic) ([猫啃](https://www.maoken.com/freefonts/8999.html)) | [IPA](https://moji.or.jp/ipafont/license/) ([汉译](https://github.com/lxgw/LxgwNeoXiHei/blob/main/LICENSE_CHS.md)) | 黑体 *（大陆新字形）* | 2021.1   | [IPA exゴシック](https://ipafont.ipa.go.jp/)                 |                                                              |
+| [霞鹜新晰黑 / LXGW Neo XiHei](https://github.com/lxgw/LxgwNeoXiHei) ([猫啃](https://www.maoken.com/freefonts/8999.html)) | [IPA](https://moji.or.jp/ipafont/license/) ([汉译](https://github.com/lxgw/LxgwNeoXiHei/blob/main/LICENSE_CHS.md)) | 黑体 *（大陆新字形）* | 2021.1   | [IPA exゴシック](https://ipafont.ipa.go.jp/)                 |                                                              |
 | [霞鹜尚智黑 / LXGW Fasmart Gothic（仅猫啃网）](https://www.maoken.com/freefonts/10610.html) | [IPA](https://moji.or.jp/ipafont/license/) ([汉译](https://github.com/lxgw/LxgwNeoXiHei/blob/main/LICENSE_CHS.md)) | 黑体 *（大陆新字形）* | 2021.4   | [03スマートフォントUI](http://www.flopdesign.com/freefont/smartfont.html) | ④                                                            |
+| [霞鹜新致宋 / LXGW Neo ZhiSong](https://github.com/lxgw/LxgwNeoZhiSong) ([猫啃](https://www.maoken.com/freefonts/18476.html)) | [IPA](https://moji.or.jp/ipafont/license/) ([汉译](https://github.com/lxgw/LxgwNeoZhiSong/blob/main/LICENSE_CHS.md)) | 宋体 *（大陆新字形）* | 202?.?   | [IPA exゴシック](https://ipafont.ipa.go.jp/)                 | ⑤                                                            |
 
 > **备注说明：**
 >
@@ -37,6 +38,7 @@ topmost: true
 > 2. 该字体包含[完整版](https://github.com/lxgw/LxgwWenKai)和[轻便版](https://github.com/lxgw/LxgwWenKai-Lite)。完整版包含 GBK 汉字和常用朝韩谚文，但部分汉字字形由 zi2zi 生成，轮廓较粗糙，且谚文拼接较拙劣。轻便版不包含谚文及 zi2zi 生成的字形。
 > 3. 该字体在轻便版文楷的基础上修改字形为传承字形，部分部件参考[一点字坊《传承字形标准化文件》](https://github.com/ichitenfont/inheritedglyphs)进行修改，适用于繁体用户及旧字形爱好者，但并不完全遵循「检校表」修改。
 > 4. 本字体为「霞鹜新晰黑」的赠品，后续更新中可能随时撤销。
+> 5. 本字体仍在筹备中，目前已放出 2000 字演示版。
 
 另有 3 款由思源黑体轻度改造的 **「975」系列字体**，由于质量较差，就不在这里列出，可在 [「猫啃网」](https://www.maoken.com/?s=975) 搜索下载。
 
@@ -70,7 +72,7 @@ topmost: true
 2. [GB/T 12345-1990](https://github.com/NightFurySL2001/cjktables/blob/master/china/encoding/gb_t_12345.txt) 是 GB 2312 对应繁体字符集，共 6866 字（包括 103 个「一简对多繁」补充汉字）。
 3. **通规** 指[《通用规范汉字表》](https://github.com/NightFurySL2001/cjktables/blob/master/china/standard/tongyong_guifan.txt)，分三个等级，共 8105 个字，跨越 CJK 统一汉字基本区及扩展 A～E 区，与 GB 2312 汉字表有 6638 个字重合。GB 2312 一级字「磺」「硷」「矽」为通规表所无。（注：「硫磺」可写作「硫黄」，但在「牛磺酸」「磺胺」等词中「磺」字仍然使用且无可替代；「硷」「矽」分别同「碱」「硅」，但「矽」字仍在「矽肺」「矽卡岩」等词中使用。）
 4. **简常** 指简体中文 3603 常用汉字，包括[「现代汉语常用字表」](https://github.com/NightFurySL2001/cjktables/blob/master/china/standard/xiandai_changyong.txt)（老 3500 字）及[「义务教育语文课程常用字表」](https://github.com/NightFurySL2001/cjktables/blob/master/china/standard/yiwu_jiaoyu.txt)（新 3500 字，与《通用规范汉字表》一级字表完全重合），新老 3500 加一起共 3603 个字（新老 3500 常用字有 103 个字不重合，详见[百度百科：现代汉语常用字表-相关比较](https://baike.baidu.com/item/%E7%8E%B0%E4%BB%A3%E6%B1%89%E8%AF%AD%E5%B8%B8%E7%94%A8%E5%AD%97%E8%A1%A8/8922402?fr=aladdin#9)）。「啰」「瞭」2 个字不见于 GB 2312 字表。（「啰嗦」「瞭望」曾写作「罗嗦」「了望」。）
-5. **繁常** 指繁体中文常用字，台湾地区[「常用国字标准字体表」](https://github.com/NightFurySL2001/cjktables/blob/master/taiwan/standard/edu_standard_1.txt)收录常用字 4808 个，香港地区[「常用字字形表」](https://github.com/NightFurySL2001/cjktables/blob/master/hong_kong/hk-changyong.txt)收录常用字 4825 个。
+5. **繁常** 指繁体中文常用字，台湾地区[「常用国字标准字体表」](https://github.com/NightFurySL2001/cjktables/blob/master/taiwan/standard/edu_standard_1.txt)收录常用字 4808 个，香港地区[「常用字字形表」](https://github.com/NightFurySL2001/cjktables/blob/master/hong_kong/hk-changyong.txt)也收录了四千余常用字，此外包含一部分异体字。
 6. **BIG5** 指繁体中文地区通行的[「大五码」](https://github.com/NightFurySL2001/cjktables/blob/master/taiwan/encoding/big5.txt)字符集标准，共 13058 字。分[常用字（一级）](https://github.com/NightFurySL2001/cjktables/blob/master/taiwan/encoding/big5-1.txt)和[次常用字（二级）](https://github.com/NightFurySL2001/cjktables/blob/master/taiwan/encoding/big5-2.txt)，常用字表 5401 字。
 
 ## 使用许可与限制
