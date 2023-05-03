@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 自制开源免费字体一览（截至 2023.01.14）
+title: 自制开源免费字体一览（截至 2023.05.03）
 categories: 开源中文字体
 description: 在原有开源字体基础上改造成的中文字体，可免费商用。
 keywords: 字体, 开源字体, 中文字体, 免费商用字体
@@ -16,7 +16,7 @@ topmost: true
 
 ## 自改免费开源字体一览
 
-截至 2022.10.9，本人已改造并发布了一些开源中文字体，均为由开源日文字体转化。现将这些字体列出如下。（先按授权方式，再按发行时间排序）
+截至 2023.5.3，本人已改造并发布了一些开源中文字体，均为由开源日文字体转化。现将这些字体列出如下。（先按授权方式，再按发行时间排序）
 
 | 字体                                                         | 授权方式                                                     | 风格                  | 发行时间 | 基础字体                                                     | 备注                                                         |
 | ------------------------------------------------------------ | ------------------------------------------------------------ | --------------------- | -------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
@@ -59,8 +59,8 @@ topmost: true
 | ------------------------------------------------------------ | ------------ | ------------ | ------------------------------------------------------------ |
 | [小赖字体](https://github.com/lxgw/kose-font)                | ★★★★★        | ★★★★★        | GB 18030-2022 实现级别二 + 原有日文字库                      |
 | [悠哉字体](https://github.com/lxgw/yozai-font)               | ★★★★★        | ★★★★★        | GB2312 + 通规 + GB12345 + BIG5 + 原有日文字库（[Adobe Japan 1-6](https://github.com/adobe-type-tools/Adobe-Japan1)） |
-| [霞鹜文楷](https://github.com/lxgw/LxgwWenKai)               | ★★★★★        | ★★★★★        | GB2312 + 通规 + GB12345 + BIG5一级 + 原有日文字库（[Adobe Japan 1-4]((https://github.com/adobe-type-tools/Adobe-Japan1))）（完整版包含 GBK） |
-| [霞鹜文楷 GB](https://github.com/lxgw/LxgwWenKaiGB)          | ★★★★★        | ☆☆☆☆☆        | GB2312 + [外字初步整理一览表](https://lxgw.github.io/2022/10/25/ext-characters-preliminary/)（第一部分） |
+| [霞鹜文楷](https://github.com/lxgw/LxgwWenKai)               | ★★★★★        | ★★★★★        | GB2312 + 通规 + GB12345 + BIG5一级 + 原有日文字库（[Adobe Japan 1-4]((https://github.com/adobe-type-tools/Adobe-Japan1))）（完整版包含 CJK 统一汉字基本区） |
+| [霞鹜文楷 GB](https://github.com/lxgw/LxgwWenKaiGB)          | ★★★★★        | ★★★★★        | GB2312 + [外字初步整理一览表](https://lxgw.github.io/2022/10/25/ext-characters-preliminary/)（第一、二部分） |
 | [霞鹜新晰黑](https://github.com/lxgw/LxgwNewClearGothic) [霞鹜尚智黑](https://www.maoken.com/freefonts/10610.html) | ★★★★★        | ★★★★★        | GB2312 + [外字初步整理一览表](https://lxgw.github.io/2022/10/25/ext-characters-preliminary/)（第一、二部分） |
 | [霞鹜漫黑](https://github.com/lxgw/LxgwMarkerGothic)         | ★★★★★        | ★★★☆☆        | GB2312 + 通规一二级 + 原有日文字库（JIS 第一/二水准）                       |
 | [霞鹜臻楷](https://github.com/lxgw/LxgwZhenKai)（弃更归档）  | ★★★★★        | ☆☆☆☆☆        | GB2312 + 通规一二级（仅简体）                                |
