@@ -62,6 +62,7 @@ topmost: true
 | [霞鹜文楷](https://github.com/lxgw/LxgwWenKai)               | ★★★★★        | ★★★★★        | GB2312 + 通规 + GB12345 + BIG5一级 + 原有日文字库（[Adobe Japan 1-4]((https://github.com/adobe-type-tools/Adobe-Japan1))）（完整版包含 CJK 统一汉字基本区） |
 | [霞鹜文楷 GB](https://github.com/lxgw/LxgwWenKaiGB)          | ★★★★★        | ★★★★★        | GB2312 + [外字初步整理一览表](https://lxgw.github.io/2022/10/25/ext-characters-preliminary/)（第一、二部分） |
 | [霞鹜新晰黑](https://github.com/lxgw/LxgwNewClearGothic) [霞鹜尚智黑](https://www.maoken.com/freefonts/10610.html) | ★★★★★        | ★★★★★        | GB2312 + [外字初步整理一览表](https://lxgw.github.io/2022/10/25/ext-characters-preliminary/)（第一、二部分） |
+| [霞鹜新致宋](https://github.com/lxgw/LxgwNewClearGothic) | ★★☆☆☆        | ☆☆☆☆☆        | GB2312 一级字 + 少量二级字 |
 | [霞鹜漫黑](https://github.com/lxgw/LxgwMarkerGothic)         | ★★★★★        | ★★★☆☆        | GB2312 + 通规一二级 + 原有日文字库（JIS 第一/二水准）                       |
 | [霞鹜臻楷](https://github.com/lxgw/LxgwZhenKai)（弃更归档）  | ★★★★★        | ☆☆☆☆☆        | GB2312 + 通规一二级（仅简体）                                |
 | [霞鹜晰黑](https://github.com/lxgw/LxgwClearGothic)（弃更归档） | ★★★★★        | ★★★★★        | GB2312 + 通规 + GB12345 + BIG5一级 + 原有日文字库（JIS 第一/二水准） |
