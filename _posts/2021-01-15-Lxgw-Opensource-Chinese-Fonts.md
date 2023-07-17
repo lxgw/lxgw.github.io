@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 自制开源免费字体一览（截至 2023.06.09）
+title: 自制开源免费字体一览（截至 2023.07.17）
 categories: 开源中文字体
 description: 在原有开源字体基础上改造成的中文字体，可免费商用。
 keywords: 字体, 开源字体, 中文字体, 免费商用字体
@@ -31,13 +31,14 @@ topmost: true
 | [霞鹜新晰黑 / LXGW Neo XiHei](https://github.com/lxgw/LxgwNeoXiHei) ([猫啃](https://www.maoken.com/freefonts/8999.html)) | [IPA](https://moji.or.jp/ipafont/license/) ([汉译](https://github.com/lxgw/LxgwNeoXiHei/blob/main/LICENSE_CHS.md)) | 黑体 *（大陆新字形）* | 2021.1   | [IPA exゴシック](https://ipafont.ipa.go.jp/)                 |                                                              |
 | [霞鹜尚智黑 / LXGW Fasmart Gothic（仅猫啃网）](https://www.maoken.com/freefonts/10610.html) | [IPA](https://moji.or.jp/ipafont/license/) ([汉译](https://github.com/lxgw/LxgwNeoXiHei/blob/main/LICENSE_CHS.md)) | 黑体 *（大陆新字形）* | 2021.4   | [03スマートフォントUI](http://www.flopdesign.com/freefont/smartfont.html) | ④                                                            |
 | [霞鹜新致宋 / LXGW Neo ZhiSong](https://github.com/lxgw/LxgwNeoZhiSong) ([猫啃](https://www.maoken.com/freefonts/18476.html)) | [IPA](https://moji.or.jp/ipafont/license/) ([汉译](https://github.com/lxgw/LxgwNeoZhiSong/blob/main/LICENSE_CHS.md)) | 宋体 *（大陆新字形）* | 2023.5   | [IPA mj明朝](https://ipafont.ipa.go.jp/)                 |                                                             |
+| [霞鹜铭心宋 / LXGW Heart Serif（仅猫啃网）](https://www.maoken.com/freefonts/19277.html) | [IPA](https://moji.or.jp/ipafont/license/) ([汉译](https://github.com/lxgw/LxgwNeoXiHei/blob/main/LICENSE_CHS.md)) | 宋体 *（大陆新字形）* | 2023.6   | [こころ明朝体](https://typingart.net/?p=46) | ④                                                            |
 
 > **备注说明：**
 >
 > 1. 该类字体制作和发行时间较早。已有替代品。
 > 2. 该字体包含[完整版](https://github.com/lxgw/LxgwWenKai)和[轻便版](https://github.com/lxgw/LxgwWenKai-Lite)。完整版包含 GBK 汉字和常用朝韩谚文，但部分汉字字形由 zi2zi 生成，轮廓较粗糙，且谚文拼接较拙劣。轻便版不包含谚文及 zi2zi 生成的字形。
 > 3. 该字体在轻便版文楷的基础上修改字形为传承字形，部分部件参考[一点字坊《传承字形标准化文件》](https://github.com/ichitenfont/inheritedglyphs)进行修改，适用于繁体用户及旧字形爱好者，但并不完全遵循「检校表」修改。
-> 4. 本字体为「霞鹜新晰黑」的赠品，没有单独的 GitHub 项目仓库。
+> 4. 「霞鹜尚智黑」「霞鹜铭心宋」分别为「霞鹜新晰黑」「霞鹜新致宋」的随附字体，没有单独的 GitHub 项目仓库。
 
 另有 3 款由思源黑体轻度改造的 **「975」系列字体**，由于质量较差，就不在这里列出，可在 [「猫啃网」](https://www.maoken.com/?s=975) 搜索下载。
 
@@ -52,6 +53,8 @@ topmost: true
 | [缝合楷 / Fusion Kai](https://github.com/lxgw/FusionKai) | 将[「霞鹜文楷 GB」](https://github.com/lxgw/LxgwWenkaiGB)[「芫荽」](https://github.com/ButTaiwan/iansui)[「Klee One」](https://github.com/fontworks-fonts/Klee)等字体相互合并制成的以各地字形为主的 Klee One 衍生字体。 | SIL OFL  |
 | [LXGW Bright](https://github.com/lxgw/LxgwBright)        | 由 [Ysabeau Office](https://github.com/CatharsisFonts/Ysabeau) 与 [霞鹜文楷系列字体](https://github.com/lxgw/LxgwWenKai) 合并而成的字体。 | SIL OFL  |
 
+<!--
+
 ## 包含字数等级参考
 
 | 字体名称                                                     | 简体字数等级 | 繁体字数等级 | 包含字库参考                                                 |
@@ -61,7 +64,7 @@ topmost: true
 | [霞鹜文楷](https://github.com/lxgw/LxgwWenKai)               | ★★★★★        | ★★★★★        | GB2312 + 通规 + GB12345 + BIG5一级 + 原有日文字库（[Adobe Japan 1-4]((https://github.com/adobe-type-tools/Adobe-Japan1))）（完整版包含 CJK 统一汉字基本区） |
 | [霞鹜文楷 GB](https://github.com/lxgw/LxgwWenKaiGB)          | ★★★★★        | ★★★★★        | GB2312 + [外字初步整理一览表](https://github.com/lxgw/ext-characters)（第一、二部分） |
 | [霞鹜新晰黑](https://github.com/lxgw/LxgwNewClearGothic) [霞鹜尚智黑](https://www.maoken.com/freefonts/10610.html) | ★★★★★        | ★★★★★        | GB2312 + [外字初步整理一览表](https://github.com/lxgw/ext-characters)（第一、二部分） |
-| [霞鹜新致宋](https://github.com/lxgw/LxgwNewClearGothic) | ★★☆☆☆        | ☆☆☆☆☆        | GB2312 一级字 + 少量二级字 |
+| [霞鹜新致宋](https://github.com/lxgw/LxgwNewClearGothic) [霞鹜铭心宋](https://www.maoken.com/freefonts/19277.html) | ★★☆☆☆        | ☆☆☆☆☆        | GB2312 一级字 + 少量二级字 |
 | [霞鹜漫黑](https://github.com/lxgw/LxgwMarkerGothic)         | ★★★★★        | ★★★☆☆        | GB2312 + 通规一二级 + 原有日文字库（JIS 第一/二水准）                       |
 | [霞鹜臻楷](https://github.com/lxgw/LxgwZhenKai)（弃更归档）  | ★★★★★        | ☆☆☆☆☆        | GB2312 + 通规一二级（仅简体）                                |
 | [霞鹜晰黑](https://github.com/lxgw/LxgwClearGothic)（弃更归档） | ★★★★★        | ★★★★★        | GB2312 + 通规 + GB12345 + BIG5一级 + 原有日文字库（JIS 第一/二水准） |
@@ -74,6 +77,9 @@ topmost: true
 4. **简常** 指简体中文 3603 常用汉字，包括[「现代汉语常用字表」](https://github.com/NightFurySL2001/cjktables/blob/master/china/standard/xiandai_changyong.txt)（老 3500 字）及[「义务教育语文课程常用字表」](https://github.com/NightFurySL2001/cjktables/blob/master/china/standard/yiwu_jiaoyu.txt)（新 3500 字，与《通用规范汉字表》一级字表完全重合），新老 3500 加一起共 3603 个字（新老 3500 常用字有 103 个字不重合，详见[百度百科：现代汉语常用字表-相关比较](https://baike.baidu.com/item/%E7%8E%B0%E4%BB%A3%E6%B1%89%E8%AF%AD%E5%B8%B8%E7%94%A8%E5%AD%97%E8%A1%A8/8922402?fr=aladdin#9)）。「啰」「瞭」2 个字不见于 GB 2312 字表。（「啰嗦」「瞭望」曾写作「罗嗦」「了望」。）
 5. **繁常** 指繁体中文常用字，台湾地区[「常用国字标准字体表」](https://github.com/NightFurySL2001/cjktables/blob/master/taiwan/standard/edu_standard_1.txt)收录常用字 4808 个，香港地区[「常用字字形表」](https://github.com/NightFurySL2001/cjktables/blob/master/hong_kong/hk-changyong.txt)也收录了四千余常用字，此外包含一部分异体字。
 6. **BIG5** 指繁体中文地区通行的[「大五码」](https://github.com/NightFurySL2001/cjktables/blob/master/taiwan/encoding/big5.txt)字符集标准，共 13058 字。分[常用字（一级）](https://github.com/NightFurySL2001/cjktables/blob/master/taiwan/encoding/big5-1.txt)和[次常用字（二级）](https://github.com/NightFurySL2001/cjktables/blob/master/taiwan/encoding/big5-2.txt)，常用字表 5401 字。
+
+
+-->
 
 ## 使用许可与限制
 
