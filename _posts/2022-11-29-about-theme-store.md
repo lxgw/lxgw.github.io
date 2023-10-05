@@ -23,6 +23,7 @@ keywords: 主题商店
 - **欧加：** 仅限企业设计师，不接受个人设计师申请。[^OPPO]
 - **vivo：** 暂未开放个人字体设计师申请。[^VIVO]
 - **魅族：** 由于字体属版权高风险业务，且个人开发者结算开票较难，因此暂不开放个人开发者上传权限。[^MEIZU]
+- **荣耀：** 与华为相同。[^HONOR]
 
 此外，一些主题商店在字体上传阶段也需要字体版权登记证明才能上线，而开源字体显然没有这样的证明，更何况二创衍生的字体（本人目前所有的开源字体都属于这类）。
 
@@ -45,3 +46,4 @@ keywords: 主题商店
 [^OPPO]: [OPPO 开放平台](https://open.oppomobile.com/new/developmentDoc/info?id=10789)
 [^VIVO]: [vivo 开放平台](https://dev.vivo.com.cn/documentCenter/doc/569)
 [^MEIZU]: [魅族开放平台](http://open.flyme.cn/docs?id=35)
+[^HONOR]: [荣耀开发者服务平台](https://developer.hihonor.com/cn/kitdoc?category=content&kitId=11106&navigation=guides&docId=Entryguide.md&token=&navation=dh51641353998411890692%2F1)
