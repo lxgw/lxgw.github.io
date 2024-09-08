@@ -29,15 +29,14 @@ topmost: true
 | [霞鹜致宋 / LXGW ZhiSong](https://github.com/lxgw/LxgwZhiSong) ([猫啃](https://www.maoken.com/freefonts/21045.html)) | [IPA](https://moji.or.jp/ipafont/license/) ([汉译](https://github.com/lxgw/LxgwNeoXiHei/blob/main/LICENSE_CHS.md)) | 黑体 *（旧字形）*     | 2020.12  | [IPA exゴシック](https://ipafont.ipa.go.jp/)                 |       |
 | [霞鹜新晰黑 / LXGW Neo XiHei](https://github.com/lxgw/LxgwNeoXiHei) ([猫啃](https://www.maoken.com/freefonts/8999.html)) | [IPA](https://moji.or.jp/ipafont/license/) ([汉译](https://github.com/lxgw/LxgwNeoXiHei/blob/main/LICENSE_CHS.md)) | 黑体 *（大陆新字形）* | 2021.1   | [IPA exゴシック](https://ipafont.ipa.go.jp/)                 |                                                              |
 | [霞鹜新致宋 / LXGW Neo ZhiSong](https://github.com/lxgw/LxgwNeoZhiSong) ([猫啃](https://www.maoken.com/freefonts/18476.html)) | [IPA](https://moji.or.jp/ipafont/license/) ([汉译](https://github.com/lxgw/LxgwNeoZhiSong/blob/main/LICENSE_CHS.md)) | 宋体 *（大陆新字形）* | 2023.5   | [IPA mj明朝](https://ipafont.ipa.go.jp/)                 |                                                             |
-| [霞鹜尚智黑 / LXGW Fasmart Gothic（仅猫啃网）](https://www.maoken.com/freefonts/10610.html) | [IPA](https://moji.or.jp/ipafont/license/) ([汉译](https://github.com/lxgw/LxgwNeoXiHei/blob/main/LICENSE_CHS.md)) | 黑体 *（大陆新字形）* | 2021.4   | [03スマートフォントUI](http://www.flopdesign.com/freefont/smartfont.html) | ④                                                            |
-| [霞鹜铭心宋 / LXGW Heart Serif（仅猫啃网）](https://www.maoken.com/freefonts/19277.html) | [IPA](https://moji.or.jp/ipafont/license/) ([汉译](https://github.com/lxgw/LxgwNeoXiHei/blob/main/LICENSE_CHS.md)) | 宋体 *（大陆新字形）* | 2023.6   | [こころ明朝体](https://typingart.net/?p=46) | ④                                                            |
+| [霞鹜尚智黑 / LXGW Fasmart Gothic](https://github.com/lxgw/LxgwFasmartGothic) ([猫啃](https://www.maoken.com/freefonts/10610.html)) | [IPA](https://moji.or.jp/ipafont/license/) ([汉译](https://github.com/lxgw/LxgwNeoXiHei/blob/main/LICENSE_CHS.md)) | 黑体 *（大陆新字形）* | 2021.4   | [03スマートフォントUI](http://www.flopdesign.com/freefont/smartfont.html) |                                                            |
+| [霞鹜铭心宋 / LXGW Heart Serif](https://github.com/lxgw/LxgwHeartSerif) ([猫啃](https://www.maoken.com/freefonts/19277.html)) | [IPA](https://moji.or.jp/ipafont/license/) ([汉译](https://github.com/lxgw/LxgwNeoXiHei/blob/main/LICENSE_CHS.md)) | 宋体 *（大陆新字形）* | 2023.6   | [こころ明朝体](https://typingart.net/?p=46) |                                                           |
 
 > **备注说明：**
 >
 > 1. 该类字体制作和发行时间较早。已有替代品。
 > 2. 该字体包含[完整版](https://github.com/lxgw/LxgwWenKai)和[轻便版](https://github.com/lxgw/LxgwWenKai-Lite)。完整版包含 GBK 汉字和常用朝韩谚文，但部分汉字字形由 zi2zi 生成，轮廓较粗糙，且谚文拼接较拙劣。轻便版不包含谚文及 zi2zi 生成的字形。
 > 3. 该字体在轻便版文楷的基础上修改字形为传承字形，部分部件参考[一点字坊《传承字形标准化文件》](https://github.com/ichitenfont/inheritedglyphs)进行修改，适用于繁体用户及旧字形爱好者，但并不完全遵循「检校表」修改。
-> 4. 「霞鹜尚智黑」「霞鹜铭心宋」分别为「霞鹜新晰黑」「霞鹜新致宋」的随附字体，没有单独的 GitHub 项目仓库。
 
 另有 3 款由思源黑体轻度改造的 **「975」系列字体**，由于质量较差，就不在这里列出，可在 [「猫啃网」](https://www.maoken.com/?s=975) 搜索下载。
 
